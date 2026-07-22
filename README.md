@@ -1,6 +1,6 @@
 # Cenk Kurtoğlu
 
-Full-stack product engineer focused on React, Next.js, Node.js, and AI-backed workflows. The projects below are labeled by evidence type so you can distinguish public source, live prototypes, and private product code.
+Full-stack product engineer focused on React, Next.js, Node.js, and AI-backed workflows. The projects below are labeled by evidence type so you can distinguish public source, live prototypes, architecture documentation, and private product code.
 
 Based in Türkiye · available for remote work
 
@@ -8,11 +8,17 @@ Based in Türkiye · available for remote work
 
 | Project | Evidence | What can be evaluated |
 |---|---|---|
-| **Renderivo** | [Public product surface](https://www.renderivo.com/) | The site exposes clearly labeled interactive GLB samples. The production source is private and available for temporary read-only review during an interview; unrestricted public generation is not claimed. |
+| **Renderivo** | [Public product surface](https://www.renderivo.com/) · [Sanitized engineering case study](https://github.com/cekuu35/cekuu35/blob/main/RENDERIVO_CASE_STUDY.md) | The public site exposes clearly labeled interactive GLB samples. The case study documents reliability and credit-integrity decisions without publishing operational details. The production source remains private; unrestricted public generation is not claimed. |
 | **llms.txt Generator** | [Public source](https://github.com/cekuu35/llms-txt-generator) · [Live Apify Actor](https://apify.com/nacred_corner/llms-txt-generator) | A JavaScript Actor that discovers pages through sitemaps or same-domain links, extracts main content, and writes `llms.txt`, optional `llms-full.txt`, and per-page metadata. |
 | **Wholesale ARV** | [Live no-login prototype](https://wholesale-arv.vercel.app/app) | A demo-mode real-estate analysis flow for conservative ARV, repair, and MAO work. The deployment visibly labels its fallback when live data keys are unavailable. Source is private. |
 | **React Story Editor** | [Live interaction proof](https://react-story-editor-proof.vercel.app/) | A self-initiated single-layer editor with drag/keyboard positioning, text size/weight/preset-color controls, safe-area guidance, and local 1080 × 1920 PNG export. It is not presented as commissioned client work. |
 | **Free Next.js CV Template** | [Public source](https://github.com/cekuu35/free-nextjs-cv-template) · [Live demo](https://20-personal-cv.vercel.app/) | A config-driven, multi-page Next.js 15 / React 19 / TypeScript / Tailwind CSS 3 template with a validated contact integration point. |
+
+## Renderivo engineering snapshot
+
+Renderivo's production repository remains private. The [sanitized case study](https://github.com/cekuu35/cekuu35/blob/main/RENDERIVO_CASE_STUDY.md) explains its recoverable asynchronous-job and transactional-credit design at a deliberately non-operational level. It omits provider identities, exact limits, security parameters, internal schemas, deployment identifiers, and proprietary source.
+
+This is a pre-revenue product foundation. Unrestricted public generation, completed live billing, and production-scale operation are not claimed. Temporary read-only source access is available for a supervised interview review.
 
 ## Public source and demos
 
