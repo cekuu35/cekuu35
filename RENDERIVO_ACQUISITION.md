@@ -1,0 +1,47 @@
+# Renderivo — $5,000 Software Asset Acquisition
+
+**Status:** Pre-revenue, as-is AI 3D Studio software asset  
+**Live product surface:** https://www.renderivo.com/  
+**Acquisition price:** **$5,000 USD**, paid through a reputable funded escrow before transfer  
+**Contact:** Cenk Kurtoğlu — cnkkurtoglu@gmail.com
+
+Renderivo is a browser-based AI 3D Studio product shell designed around text/image-to-3D workflows, asynchronous generation jobs, downloadable model outputs, and an interactive GLB viewer. The public site currently demonstrates the product direction and sample viewing experience.
+
+## Included
+
+- `renderivo.com`, subject to the registrar's normal transfer process
+- Seller-owned Renderivo brand and interface assets
+- A pinned private Next.js/TypeScript source release
+- Text/image-to-3D provider integration code and asynchronous job/webhook foundations
+- Account, credit, storage, billing, and downloadable-output foundations
+- Interactive browser GLB viewer and public sample assets
+- Setup, architecture, due-diligence, and transfer documentation
+- Seller release evidence covering lint, typecheck, production build, 51 automated tests, production-dependency audit, and secret-pattern checks
+- Fixed, limited asynchronous handover over seven calendar days: repository orientation, environment mapping, and one buyer-owned deployment/acceptance cycle
+
+## Material disclosures
+
+- Renderivo is **pre-revenue**. No verified revenue, profit, paying customers, transferable user base, or traffic level is claimed.
+- This is an **as-is software asset sale**, not the sale of an operating SaaS business.
+- Public production generation and paid checkout are not being represented as active.
+- Recent production logs show a known Firebase Admin module-compatibility issue affecting billing/reconciliation routes. The buyer must resolve this during activation and complete end-to-end acceptance tests in buyer-owned environments.
+- Provider, cloud, Firebase, storage, Paddle/payment, analytics, monitoring, email, and other service accounts are **not included**. No credentials, API balances, personal accounts, or user data transfer.
+- A legacy Shopify/product-photo system is excluded.
+- No registered trademark is represented as included.
+
+## Buyer activation
+
+The buyer connects its own service accounts and credentials, reviews the private data room, resolves the disclosed production dependency issue, and runs provider, authentication, storage, webhook, credit, billing, and download acceptance tests before public launch.
+
+## Transaction process
+
+1. Buyer qualification and mutual NDA if requested.
+2. Sanitized one-pager and private data-room review.
+3. Signed asset purchase agreement defining the exact pinned release and included assets.
+4. Full purchase price funded in reputable escrow.
+5. Domain, private repository, brand assets, and documentation transferred.
+6. Limited handover and buyer-owned acceptance cycle.
+
+This can fit a 3D-generation provider, AI creative-tools company, or technical operator that wants a ready product and interface foundation without treating it as a proven revenue business.
+
+**Serious acquisition inquiries:** cnkkurtoglu@gmail.com
