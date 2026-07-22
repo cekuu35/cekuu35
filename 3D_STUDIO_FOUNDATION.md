@@ -7,6 +7,7 @@ Private **Next.js GLB/glTF studio foundation** for teams building branded produc
 **Live sales page:** [studio3d-foundation.anakinsky3535.chatgpt.site](https://studio3d-foundation.anakinsky3535.chatgpt.site)  
 **Status:** Verified private source package, available for non-exclusive licensing  
 **Delivery:** Pinned private source release after payment verification  
+**License:** [Public commercial source terms](https://github.com/cekuu35/cekuu35/blob/main/3D_STUDIO_FOUNDATION_LICENSE.md)  
 **Contact:** Cenk Kurtoğlu — cnkkurtoglu@gmail.com
 
 Build a branded browser 3D workspace without starting from an empty repository.
