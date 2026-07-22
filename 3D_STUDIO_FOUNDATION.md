@@ -1,5 +1,9 @@
 # 3D Studio Foundation — $1,000 Commercial Source License
 
+![3D Studio Foundation — verified Next.js and TypeScript source package](assets/3d-studio-foundation-cover.svg)
+
+Private **Next.js 3D viewer source code** for teams building branded GLB/glTF product previews, internal model-review tools, immersive catalog prototypes, or the first interface layer of a custom 3D product.
+
 **Status:** Verified private source package, available for non-exclusive licensing  
 **Price:** **$1,000 USD** for one named entity and one commercial end product  
 **Delivery:** Pinned private source release after payment verification  
@@ -9,6 +13,13 @@
 Build a branded browser 3D workspace without starting from an empty repository.
 
 3D Studio Foundation is a clean, brand-neutral Next.js source base extracted from seller-owned engineering work. It is designed for developers, product teams, and agencies that want a working 3D viewer and studio interface while retaining their own brand, infrastructure, business rules, and customer experience.
+
+## Designed for
+
+- agencies that want an inspectable 3D starting point for an upcoming pitch or client build
+- product teams prototyping a browser-based GLB/glTF review or catalog experience
+- developers who want to spend their time on product-specific data, controls, branding, and workflows instead of rebuilding the studio shell
+- one buyer-owned commercial end product; this is not a source-resale or template-redistribution license
 
 ## Included
 
@@ -29,9 +40,11 @@ The current isolated package has passed:
 - TypeScript
 - 5/5 unit tests
 - Next.js production build and 3/3 generated pages
+- production-dependency audit with 0 known vulnerabilities reported at verification time
+- HTTP smoke for the studio page and both packaged samples
 - source-boundary review excluding production accounts, data, provider code, billing, and Renderivo identity
 
-These checks verify the delivered foundation's stated scope. They do not represent an operating AI generation or billing service.
+A real-browser visual interaction check remains a written pre-delivery acceptance item. These checks verify the delivered foundation's stated scope; they do not represent an operating AI generation or billing service.
 
 ## Deliberate exclusions
 
