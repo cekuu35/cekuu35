@@ -7,14 +7,19 @@
 
 Renderivo is a browser-based AI 3D Studio product shell designed around text/image-to-3D workflows, asynchronous generation jobs, downloadable model outputs, and an interactive GLB viewer. The public site currently demonstrates the product direction and sample viewing experience.
 
+## One canonical package
+
+The acquisition is intentionally consolidated around the **canonical private Renderivo web 3D Studio repository**. Unfinished mobile work, legacy MVP experiments, an unrelated marketplace workflow, deprecated repositories, and the old Shopify/product-photo system are excluded rather than mixed into the buyer's codebase.
+
 ## Included
 
 - `renderivo.com`, subject to the registrar's normal transfer process
 - Seller-owned Renderivo brand and interface assets
-- A pinned private Next.js/TypeScript source release
+- One pinned private Next.js/TypeScript source release
 - Text/image-to-3D provider integration code and asynchronous job/webhook foundations
-- Account, credit, storage, billing, and downloadable-output foundations
-- Interactive browser GLB viewer and public sample assets
+- Account, credit, storage, Polar billing, and downloadable-output foundations
+- Interactive browser GLB viewer
+- Four repository-authored primitive GLB samples; two archived provider outputs are included only if their commercial-transfer rights are confirmed before closing
 - Setup, architecture, due-diligence, and transfer documentation
 - Seller release evidence covering lint, typecheck, production build, 51 automated tests, production-dependency audit, and secret-pattern checks
 - Fixed, limited asynchronous handover over seven calendar days: repository orientation, environment mapping, and one buyer-owned deployment/acceptance cycle
@@ -25,8 +30,7 @@ Renderivo is a browser-based AI 3D Studio product shell designed around text/ima
 - This is an **as-is software asset sale**, not the sale of an operating SaaS business.
 - Public production generation and paid checkout are not being represented as active.
 - Recent production logs show a known Firebase Admin module-compatibility issue affecting billing/reconciliation routes. The buyer must resolve this during activation and complete end-to-end acceptance tests in buyer-owned environments.
-- Provider, cloud, Firebase, storage, Paddle/payment, analytics, monitoring, email, and other service accounts are **not included**. No credentials, API balances, personal accounts, or user data transfer.
-- A legacy Shopify/product-photo system is excluded.
+- Provider, cloud, Firebase, storage, Polar/payment, analytics, monitoring, email, registrar, and other service accounts are **not included**. No credentials, API balances, personal accounts, or user data transfer.
 - No registered trademark is represented as included.
 
 ## Buyer activation
