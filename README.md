@@ -6,11 +6,11 @@ I build **production-ready web applications** with Next.js, TypeScript, Tailwind
 
 ## 20 Production-Ready Next.js Website Templates
 
-> **Multi-page, fully working Next.js 15 + Tailwind CSS templates** — not just landing pages.  
+> **Multi-page, fully working Next.js 16 + Tailwind CSS v4 templates** — not just landing pages.  
 > Each template ships with 5+ pages, working forms, routing, and single-file configuration.  
 > **Browse live demos → [cenkkurtoglu.com/templates](https://cenkkurtoglu.com/templates)**
 
-| # | Template | Niche | Live Demo | Price |
+| # | Template | Niche | Live Demo | Get |
 |---|----------|-------|-----------|-------|
 | 01 | Modern SaaS | SaaS / Software | [Demo](https://01-modern-saas.vercel.app) | [View options →](https://cenkkurtoglu.com/templates) |
 | 02 | AI Startup | AI / Startup | [Demo](https://02-ai-startup.vercel.app) | [View options →](https://cenkkurtoglu.com/templates) |
@@ -36,6 +36,12 @@ I build **production-ready web applications** with Next.js, TypeScript, Tailwind
 **All 20 templates: $79 one-time** — instant ZIP delivery, commercial client-work license, and lifetime updates.  
 **[Browse 20 live demos](https://cenkkurtoglu.com/templates) · [Get the $79 bundle](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github&utm_medium=profile&utm_campaign=bundle79)**
 
+### Need to show a premium 3D direction?
+
+**Nexus Studio** gives creative studios a live cinematic Next.js starting point they can evaluate before committing to a fully custom immersive build.
+
+**[View the live 3D demo](https://21-ultra-premium.vercel.app) · [Get the $250 source template](https://cengokurtoglu.gumroad.com/l/kbwlkv?utm_source=okara&utm_medium=github_profile&utm_campaign=72h_sales)**
+
 ---
 
 ## Free Template
@@ -48,9 +54,9 @@ Want to try before you buy? Grab the free CV/portfolio template:
 
 ## Tech Stack
 
-![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)
+![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-strict-blue?logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v3-38bdf8?logo=tailwindcss)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-38bdf8?logo=tailwindcss)
 ![React](https://img.shields.io/badge/React-18-61dafb?logo=react)
 ![Vercel](https://img.shields.io/badge/Vercel-deployed-black?logo=vercel)
 ![Supabase](https://img.shields.io/badge/Supabase-auth%2Bdb-3fcf8e?logo=supabase)
