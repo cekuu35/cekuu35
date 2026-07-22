@@ -31,7 +31,7 @@ The acquisition is intentionally consolidated around the **canonical private Ren
 - Public production generation and paid checkout are not being represented as active.
 - Recent production logs show a known Firebase Admin module-compatibility issue affecting billing/reconciliation routes. The buyer must resolve this during activation and complete end-to-end acceptance tests in buyer-owned environments.
 - Provider, cloud, Firebase, storage, Polar/payment, analytics, monitoring, email, registrar, and other service accounts are **not included**. No credentials, API balances, personal accounts, or user data transfer.
-- No registered trademark is represented as included.
+- No registered trademark is represented as included.\n- A separate brand-neutral [3D Studio Foundation](https://github.com/cekuu35/cekuu35/blob/main/3D_STUDIO_FOUNDATION.md) is offered under a $1,000 non-exclusive, one-end-product source license. That package excludes the Renderivo identity, domain, production repository, accounts, data, billing, and provider integrations. Any valid license granted before an acquisition remains in force and must be disclosed; this acquisition is not represented as unencumbered exclusivity over that separate generic foundation.
 
 ## Buyer activation
 
