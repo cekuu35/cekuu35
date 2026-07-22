@@ -4,6 +4,16 @@ I build **production-ready web applications** with Next.js, TypeScript, Tailwind
 
 ---
 
+## Shipped Product Work
+
+- **[Wholesale ARV](https://wholesale-arv.vercel.app/app)** — a no-login real-estate analysis prototype with a conservative ARV workflow, comp/adjustment foundation, rehab estimate, confidence scoring, and wholesale MAO logic.
+- **[React Story Editor](https://react-story-editor-proof.vercel.app/)** — draggable and styleable story text, safe-area constraints, keyboard positioning, and local 1080 × 1920 PNG export.
+- **[llms.txt Generator](https://github.com/cekuu35/llms-txt-generator)** — public TypeScript/Apify source for crawling sites into reviewed `llms.txt` and `llms-full.txt` outputs; [run it on Apify](https://apify.com/nacred_corner/llms-txt-generator).
+
+Production repositories for **Renderivo**, an AI 3D asset studio with provider, credit, asset-history, and payment flows, are private and available for code review during an interview.
+
+---
+
 ## 20 Production-Ready Next.js Website Templates
 
 > **Multi-page, fully working Next.js 16 + Tailwind CSS v4 templates** — not just landing pages.  
