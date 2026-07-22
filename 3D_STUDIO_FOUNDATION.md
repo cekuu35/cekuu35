@@ -4,6 +4,7 @@
 
 Private **Next.js 3D viewer source code** for teams building branded GLB/glTF product previews, internal model-review tools, immersive catalog prototypes, or the first interface layer of a custom 3D product.
 
+**Live sales page:** [studio3d-foundation.anakinsky3535.chatgpt.site](https://studio3d-foundation.anakinsky3535.chatgpt.site)  
 **Status:** Verified private source package, available for non-exclusive licensing  
 **Price:** **$1,000 USD** for one named entity and one commercial end product  
 **Delivery:** Pinned private source release after payment verification  
@@ -74,4 +75,4 @@ This license does **not** transfer the Renderivo domain or brand. The separate [
 5. The seven-day setup/handover window begins on delivery.
 
 **Purchase inquiry:** [cnkkurtoglu@gmail.com](mailto:cnkkurtoglu@gmail.com?subject=3D%20Studio%20Foundation%20%241000%20source%20license)  
-**Product direction:** https://www.renderivo.com/
+**Live product page:** https://studio3d-foundation.anakinsky3535.chatgpt.site/
