@@ -4,7 +4,9 @@ Full-stack product engineer focused on React, Next.js, Node.js, and AI-backed wo
 
 Based in Türkiye · available for remote work
 
-> **Renderivo is available for acquisition:** complete pre-revenue AI 3D Studio software asset, private canonical source release, transfer documentation, brand assets, and `renderivo.com` — **$5,000 USD via funded escrow**. [Review the transparent acquisition brief →](https://github.com/cekuu35/cekuu35/blob/main/RENDERIVO_ACQUISITION.md)\n>\n> **Source-only option:** brand-neutral 3D Studio Foundation for one commercial end product — **$1,000 non-exclusive license**. [Review the verified source-license scope →](https://github.com/cekuu35/cekuu35/blob/main/3D_STUDIO_FOUNDATION.md)
+> **Renderivo is available for acquisition:** complete pre-revenue AI 3D Studio software asset, private canonical source release, transfer documentation, brand assets, and `renderivo.com` — **$5,000 USD via funded escrow**. [Review the transparent acquisition brief →](https://github.com/cekuu35/cekuu35/blob/main/RENDERIVO_ACQUISITION.md)
+>
+> **Source-only option:** brand-neutral 3D Studio Foundation for one commercial end product — **$1,000 non-exclusive license**. [Review the verified source-license scope →](https://github.com/cekuu35/cekuu35/blob/main/3D_STUDIO_FOUNDATION.md)
 
 ## Selected product work
 
