@@ -40,7 +40,7 @@ I build **production-ready web applications** with Next.js, TypeScript, Tailwind
 
 **Nexus Studio** gives creative studios a live cinematic Next.js starting point they can evaluate before committing to a fully custom immersive build.
 
-**[View the live 3D demo](https://21-ultra-premium.vercel.app) · [Get the $250 source template](https://cengokurtoglu.gumroad.com/l/kbwlkv?utm_source=okara&utm_medium=github_profile&utm_campaign=72h_sales)**
+**[View the live 3D demo](https://21-ultra-premium.vercel.app) · [Get the $250 source template](https://cengokurtoglu.gumroad.com/l/kbwlkv?utm_source=github&utm_medium=profile&utm_campaign=30d_engine)**
 
 ---
 
