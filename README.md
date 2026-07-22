@@ -6,7 +6,7 @@ Based in Türkiye · available for remote work
 
 > **Renderivo is available for acquisition:** consolidated pre-revenue AI 3D Studio asset package, private canonical source release, transfer documentation, brand assets, and `renderivo.com` — **$5,000 USD via funded escrow**, subject to the disclosed generic-Foundation carve-out. [Review the transparent acquisition brief →](https://github.com/cekuu35/cekuu35/blob/main/RENDERIVO_ACQUISITION.md)
 >
-> **Source option:** verified, brand-neutral 3D Studio Foundation for one commercial end product — **$499 Developer License / $999 Assisted Launch**. [Review the source, support, and license scope →](https://github.com/cekuu35/cekuu35/blob/main/3D_STUDIO_FOUNDATION.md)
+> **Source option:** verified, brand-neutral 3D Studio Foundation for one commercial end product — **$499 Developer License / $999 Assisted Launch**. [View the live offer →](https://studio3d-foundation.anakinsky3535.chatgpt.site)
 
 ## Selected product work
 
