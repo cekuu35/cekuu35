@@ -28,7 +28,7 @@ This is a pre-revenue product foundation. Unrestricted public generation, comple
 
 - [llms-txt-generator](https://github.com/cekuu35/llms-txt-generator) — public application source and a live Apify Actor.
 - [free-nextjs-cv-template](https://github.com/cekuu35/free-nextjs-cv-template) — public Next.js source and a live deployment.
-- [nextjs-website-templates](https://github.com/cekuu35/nextjs-website-templates) — a public catalog of hosted template demos; commercial source is distributed separately.
+- [nextjs-website-templates](https://github.com/cekuu35/nextjs-website-templates) — 20 hosted starter demos with a transparent [buyer guide](https://github.com/cekuu35/nextjs-website-templates/blob/main/BUYER_GUIDE.md); commercial source is distributed separately through the verified [$79 Gumroad checkout](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github_profile&utm_medium=referral&utm_campaign=bundle79).
 
 ## Current stack
 
