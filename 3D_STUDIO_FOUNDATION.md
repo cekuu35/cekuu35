@@ -67,9 +67,10 @@ The isolated package has passed:
 - Next.js production build and 3/3 generated pages
 - production-dependency audit with 0 known vulnerabilities reported at verification time
 - HTTP smoke for the studio page and both packaged samples
+- Chromium interaction smoke covering both packaged samples, sample switching, browser-local GLB selection, and a 390 × 844 mobile viewport
 - source-boundary review excluding production accounts, data, provider code, billing, and Renderivo identity
 
-A real-browser visual interaction check remains a written pre-delivery acceptance item. These checks verify the delivered foundation's stated scope; they do not represent an operating AI generation or billing service.
+These checks verify the delivered foundation's stated scope; they do not represent an operating AI generation or billing service.
 
 ## Deliberate exclusions
 
