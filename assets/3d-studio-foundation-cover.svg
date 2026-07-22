@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
   <title id="title">3D Studio Foundation commercial source license</title>
-  <desc id="desc">Next.js and TypeScript source foundation for a browser-based GLB and glTF studio, offered under a one-product commercial license for one thousand US dollars.</desc>
+  <desc id="desc">Next.js and TypeScript source foundation for a browser-based GLB and glTF studio, offered as a $499 Developer License or a $999 Assisted Launch.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#07111f"/>
@@ -48,10 +48,10 @@
       <text y="165" fill="#b8c6e3" font-size="21">Next.js 16 · React 19 · TypeScript</text>
       <text y="199" fill="#b8c6e3" font-size="21">Browser-local GLB / glTF viewer</text>
       <g transform="translate(0 235)">
-        <rect width="185" height="52" rx="26" fill="url(#accent)"/>
-        <text x="92.5" y="34" fill="#08111f" font-size="22" font-weight="800" text-anchor="middle">$1,000 USD</text>
-        <text x="210" y="22" fill="#f0f4ff" font-size="16" font-weight="700">ONE ENTITY</text>
-        <text x="210" y="44" fill="#91a4ca" font-size="15">one commercial end product</text>
+        <rect width="220" height="52" rx="26" fill="url(#accent)"/>
+        <text x="110" y="34" fill="#08111f" font-size="21" font-weight="800" text-anchor="middle">FROM $499</text>
+        <text x="245" y="22" fill="#f0f4ff" font-size="16" font-weight="700">DEVELOPER $499</text>
+        <text x="245" y="44" fill="#91a4ca" font-size="15">ASSISTED LAUNCH $999</text>
       </g>
       <text y="333" fill="#66e3b4" font-size="16" font-weight="700">✓ clean install  ✓ lint  ✓ types  ✓ tests  ✓ build</text>
     </g>
