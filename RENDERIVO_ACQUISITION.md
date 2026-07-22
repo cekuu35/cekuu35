@@ -11,6 +11,12 @@ Renderivo is a browser-based AI 3D Studio product shell designed around text/ima
 
 The acquisition is intentionally consolidated around the **canonical private Renderivo web 3D Studio repository**. Unfinished mobile work, legacy MVP experiments, an unrelated marketplace workflow, deprecated repositories, and the old Shopify/product-photo system are excluded rather than mixed into the buyer's codebase.
 
+## Generic foundation carve-out
+
+The seller retains ownership of the separate, brand-neutral 3D Studio Foundation and the right to continue issuing non-exclusive licenses for that generic package. The acquisition buyer receives the rights expressly defined in the asset purchase agreement to use the Foundation elements embedded in the transferred Renderivo release. The $5,000 offer therefore covers the Renderivo domain, brand, production-specific application code, documentation, and the stated embedded-use rights; it is **not** marketed as an exclusive transfer of the separately licensed generic Foundation.
+
+Any valid Foundation licenses granted before closing survive the acquisition. The final agreement must list them and must not claim exclusive or unencumbered ownership over code covered by the carve-out.
+
 ## Included
 
 - `renderivo.com`, subject to the registrar's normal transfer process
