@@ -7,7 +7,7 @@ Based in Türkiye · available for remote work
 ## Digital products
 
 - **20 Next.js + Tailwind starter sites — $79 one-time:** editable source ZIPs for agency pitches and client builds. [Review the buyer guide](https://github.com/cekuu35/nextjs-website-templates/blob/main/BUYER_GUIDE.md) · [Go directly to checkout](https://cengokurtoglu.gumroad.com/l/vuhstz?wanted=true&utm_source=github_profile&utm_medium=referral&utm_campaign=digital_products)
-- **Premium Nexus Studio — $250 one-time:** cinematic Next.js/Three.js agency template. [View the live demo](https://21-ultra-premium.vercel.app/) · [Go directly to checkout](https://cengokurtoglu.gumroad.com/l/kbwlkv?wanted=true&utm_source=github_profile&utm_medium=referral&utm_campaign=digital_products)
+- **Premium Nexus Studio — $250 one-time:** cinematic Next.js/Three.js agency template. [Review the clean buyer page](https://cekuu35.github.io/premium-nexus-studio/) · [Go directly to checkout](https://cengokurtoglu.gumroad.com/l/kbwlkv?wanted=true&utm_source=github_profile&utm_medium=referral&utm_campaign=digital_products)
 
 > **Renderivo is available for acquisition:** consolidated pre-revenue AI 3D Studio asset package, private canonical source release, transfer documentation, brand assets, and `renderivo.com` — **$5,000 USD via funded escrow**, subject to the disclosed generic-Foundation carve-out. [Review the acquisition offer →](https://renderivo-acquisition.anakinsky3535.chatgpt.site)
 >
