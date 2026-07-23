@@ -4,6 +4,11 @@ Full-stack product engineer focused on React, Next.js, Node.js, and AI-backed wo
 
 Based in Türkiye · available for remote work
 
+## Digital products
+
+- **20 Next.js + Tailwind starter sites — $79 one-time:** editable source ZIPs for agency pitches and client builds. [Review the buyer guide](https://github.com/cekuu35/nextjs-website-templates/blob/main/BUYER_GUIDE.md) · [Go directly to checkout](https://cengokurtoglu.gumroad.com/l/vuhstz?wanted=true&utm_source=github_profile&utm_medium=referral&utm_campaign=digital_products)
+- **Premium Nexus Studio — $250 one-time:** cinematic Next.js/Three.js agency template. [View the live demo](https://21-ultra-premium.vercel.app/) · [Go directly to checkout](https://cengokurtoglu.gumroad.com/l/kbwlkv?wanted=true&utm_source=github_profile&utm_medium=referral&utm_campaign=digital_products)
+
 > **Renderivo is available for acquisition:** consolidated pre-revenue AI 3D Studio asset package, private canonical source release, transfer documentation, brand assets, and `renderivo.com` — **$5,000 USD via funded escrow**, subject to the disclosed generic-Foundation carve-out. [Review the acquisition offer →](https://renderivo-acquisition.anakinsky3535.chatgpt.site)
 >
 > **Source option:** verified, brand-neutral 3D Studio Foundation for one commercial end product — **$499 Developer License / $999 Assisted Launch**. [View the live offer →](https://studio3d-foundation.anakinsky3535.chatgpt.site)
@@ -28,7 +33,7 @@ This is a pre-revenue product foundation. Unrestricted public generation, comple
 
 - [llms-txt-generator](https://github.com/cekuu35/llms-txt-generator) — public application source and a live Apify Actor.
 - [free-nextjs-cv-template](https://github.com/cekuu35/free-nextjs-cv-template) — public Next.js source and a live deployment.
-- [nextjs-website-templates](https://github.com/cekuu35/nextjs-website-templates) — 20 hosted starter demos with a transparent [buyer guide](https://github.com/cekuu35/nextjs-website-templates/blob/main/BUYER_GUIDE.md); commercial source is distributed separately through the verified [$79 Gumroad checkout](https://cengokurtoglu.gumroad.com/l/vuhstz?utm_source=github_profile&utm_medium=referral&utm_campaign=bundle79).
+- [nextjs-website-templates](https://github.com/cekuu35/nextjs-website-templates) — 20 hosted starter demos with a transparent [buyer guide](https://github.com/cekuu35/nextjs-website-templates/blob/main/BUYER_GUIDE.md); commercial source is distributed separately through the verified [$79 Gumroad checkout](https://cengokurtoglu.gumroad.com/l/vuhstz?wanted=true&utm_source=github_profile&utm_medium=referral&utm_campaign=bundle79).
 
 ## Current stack
 
