@@ -4,7 +4,7 @@ Full-stack product engineer focused on React, Next.js, Node.js, and AI-backed wo
 
 Based in Türkiye · available for remote work
 
-> **Renderivo is available for acquisition:** consolidated pre-revenue AI 3D Studio asset package, private canonical source release, transfer documentation, brand assets, and `renderivo.com` — **$5,000 USD via funded escrow**, subject to the disclosed generic-Foundation carve-out. [Review the transparent acquisition brief →](https://github.com/cekuu35/cekuu35/blob/main/RENDERIVO_ACQUISITION.md)
+> **Renderivo is available for acquisition:** consolidated pre-revenue AI 3D Studio asset package, private canonical source release, transfer documentation, brand assets, and `renderivo.com` — **$5,000 USD via funded escrow**, subject to the disclosed generic-Foundation carve-out. [Review the acquisition offer →](https://renderivo-acquisition.anakinsky3535.chatgpt.site)
 >
 > **Source option:** verified, brand-neutral 3D Studio Foundation for one commercial end product — **$499 Developer License / $999 Assisted Launch**. [View the live offer →](https://studio3d-foundation.anakinsky3535.chatgpt.site)
 
@@ -12,7 +12,7 @@ Based in Türkiye · available for remote work
 
 | Project | Evidence | What can be evaluated |
 |---|---|---|
-| **Renderivo** | [Public product surface](https://www.renderivo.com/) · [Acquisition brief — $5,000](https://github.com/cekuu35/cekuu35/blob/main/RENDERIVO_ACQUISITION.md) · [Sanitized engineering case study](https://github.com/cekuu35/cekuu35/blob/main/RENDERIVO_CASE_STUDY.md) | The public site exposes clearly labeled interactive GLB samples. The case study documents reliability and credit-integrity decisions without publishing operational details. The production source remains private; unrestricted public generation is not claimed. |
+| **Renderivo** | [Acquisition offer — $5,000](https://renderivo-acquisition.anakinsky3535.chatgpt.site) · [Public product surface](https://www.renderivo.com/) · [Full acquisition brief](https://github.com/cekuu35/cekuu35/blob/main/RENDERIVO_ACQUISITION.md) · [Sanitized engineering case study](https://github.com/cekuu35/cekuu35/blob/main/RENDERIVO_CASE_STUDY.md) | The public site exposes clearly labeled interactive GLB samples. The case study documents reliability and credit-integrity decisions without publishing operational details. The production source remains private; unrestricted public generation is not claimed. |
 | **llms.txt Generator** | [Public source](https://github.com/cekuu35/llms-txt-generator) · [Live Apify Actor](https://apify.com/nacred_corner/llms-txt-generator) | A JavaScript Actor that discovers pages through sitemaps or same-domain links, extracts main content, and writes `llms.txt`, optional `llms-full.txt`, and per-page metadata. |
 | **Wholesale ARV** | [Live no-login prototype](https://wholesale-arv.vercel.app/app) | A demo-mode real-estate analysis flow for conservative ARV, repair, and MAO work. The deployment visibly labels its fallback when live data keys are unavailable. Source is private. |
 | **React Story Editor** | [Live interaction proof](https://react-story-editor-proof.vercel.app/) | A self-initiated single-layer editor with drag/keyboard positioning, text size/weight/preset-color controls, safe-area guidance, and local 1080 × 1920 PNG export. It is not presented as commissioned client work. |
