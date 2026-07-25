@@ -1,6 +1,6 @@
 # Cenk Kurtoğlu
 
-Product builder focused on React, Next.js, Node.js, AI-backed workflows, and practical digital products. The projects below are labeled by evidence type so you can distinguish public source, live products, prototypes, architecture documentation, and private product code.
+Independent solo developer focused on React, Next.js, Node.js, AI-backed workflows, and practical digital products. Purchases directly support careful maintenance, clearer documentation, and the development of more useful tools. The projects below are labeled by evidence type so you can distinguish public source, live products, prototypes, architecture documentation, and private product code.
 
 Based in Türkiye
 
