@@ -1,8 +1,8 @@
-# Renderivo — $5,000 Software Asset Acquisition
+# Renderivo — $10,000 Software Asset Acquisition
 
 **Status:** Pre-revenue, as-is AI 3D Studio software asset  
 **Live product surface:** https://www.renderivo.com/  
-**Acquisition price:** **$5,000 USD**, paid through a reputable funded escrow before transfer  
+**Acquisition price:** **$10,000 USD**, paid through a reputable funded escrow before transfer  
 **Contact:** Cenk Kurtoğlu — cnkkurtoglu@gmail.com
 
 Renderivo is a browser-based AI 3D Studio product shell designed around text/image-to-3D workflows, asynchronous generation jobs, downloadable model outputs, and an interactive GLB viewer. The public site currently demonstrates the product direction and sample viewing experience.
@@ -13,7 +13,7 @@ The acquisition is intentionally consolidated around the **canonical private Ren
 
 ## Generic foundation carve-out
 
-The seller retains ownership of the separate, brand-neutral 3D Studio Foundation and the right to continue issuing non-exclusive licenses for that generic package. The acquisition buyer receives the rights expressly defined in the asset purchase agreement to use the Foundation elements embedded in the transferred Renderivo release. The $5,000 offer therefore covers the Renderivo domain, brand, production-specific application code, documentation, and the stated embedded-use rights; it is **not** marketed as an exclusive transfer of the separately licensed generic Foundation.
+The seller retains ownership of the separate, brand-neutral 3D Studio Foundation and the right to continue issuing non-exclusive licenses for that generic package. The acquisition buyer receives the rights expressly defined in the asset purchase agreement to use the Foundation elements embedded in the transferred Renderivo release. The $10,000 offer therefore covers the Renderivo domain, brand, production-specific application code, documentation, and the stated embedded-use rights; it is **not** marketed as an exclusive transfer of the separately licensed generic Foundation.
 
 Any valid Foundation licenses granted before closing survive the acquisition. The final agreement must list them and must not claim exclusive or unencumbered ownership over code covered by the carve-out.
 
