@@ -8,11 +8,11 @@ Based in Türkiye
 
 **[Try the free evidence-led 100-point scorecard →](https://cekuu35.github.io/evidence-led-website-audit/scorecard.html?utm_source=github_profile&utm_medium=referral&utm_campaign=ai_audit_kit_launch&utm_content=featured_scorecard)**
 
-**[Review and buy the complete $49 Audit Kit →](https://cengokurtoglu.gumroad.com/l/ai-ready-website-audit-kit?wanted=true&utm_source=github_profile&utm_medium=referral&utm_campaign=ai_ready_audit_kit&utm_content=featured_checkout)**
+**[Review and buy the complete $49 Audit Kit →](https://cengokurtoglu.gumroad.com/l/ai-ready-website-audit-kit?utm_source=github_profile&utm_medium=referral&utm_campaign=ai_ready_audit_kit&utm_content=featured_checkout)**
 
 [Browse the complete verified product catalog](https://cekuu35.github.io/?utm_source=github_profile&utm_medium=referral&utm_campaign=ai_ready_audit_kit)
 
-- **AI-Ready Website Audit Kit — $49 one-time:** an evidence-backed 100-point operational-readiness workflow with a dependency-free Node.js scorer, evidence ledger, 19-page playbook, regression tests, and editable client-report templates. [Review and buy on Gumroad](https://cengokurtoglu.gumroad.com/l/ai-ready-website-audit-kit?wanted=true&utm_source=github_profile&utm_medium=referral&utm_campaign=ai_ready_audit_kit)
+- **AI-Ready Website Audit Kit — $49 one-time:** an evidence-backed 100-point operational-readiness workflow with a dependency-free Node.js scorer, evidence ledger, 19-page playbook, regression tests, and editable client-report templates. [Review and buy on Gumroad](https://cengokurtoglu.gumroad.com/l/ai-ready-website-audit-kit?utm_source=github_profile&utm_medium=referral&utm_campaign=ai_ready_audit_kit)
 - **20 Next.js website templates — review the scope first:** twenty editable Next.js 15.1, React 19, Tailwind CSS 3.4 and TypeScript starters in one 17.7 MB ZIP for agency pitches and client marketing-site builds. [Review the scope and demos](https://cekuu35.github.io/india-nextjs-templates/?utm_source=github_profile&utm_medium=referral&utm_campaign=template_scope_review)
 - **Abonem — free download with optional Premium:** an iPhone and iPad subscription and recurring-bill tracker. [Download on the App Store](https://apps.apple.com/tr/app/abonem-subscription-tracker/id6776748341?utm_source=github_profile&utm_medium=referral&utm_campaign=all_products)
 - **llms.txt Generator — from $5 / 1,000 results:** an Apify Actor and API automation that generates `llms.txt`, `llms-full.txt`, and exportable page data. [Run it on Apify](https://apify.com/nacred_corner/llms-txt-generator?utm_source=github_profile&utm_medium=referral&utm_campaign=all_products)
