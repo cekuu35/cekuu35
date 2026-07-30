@@ -6,7 +6,14 @@ Based in Türkiye
 
 ## Digital products
 
-Only two products are currently promoted here. Both have a live public preview and a working Gumroad purchase path.
+Three products are currently promoted here. Each has a live public explanation or preview and a working Gumroad purchase path.
+
+### CSV Update Guard — $9 one-time
+
+An offline browser tool for reviewing risky bulk CSV changes before import. It compares current and proposed files by a chosen key, flags blank overwrites and structural risks, and generates a reviewed patch CSV plus a local HTML evidence report.
+
+- [See the workflow and limitations](https://cekuu35.github.io/csv-update-guard/?utm_source=github_profile&utm_medium=referral&utm_campaign=csv_update_guard_launch&utm_content=profile_readme)
+- [Review and buy on Gumroad — $9](https://cengokurtoglu.gumroad.com/l/csv-update-guard?utm_source=github_profile&utm_medium=referral&utm_campaign=csv_update_guard_launch&utm_content=profile_readme)
 
 ### AI-Ready Website Audit Kit — $49 one-time
 
@@ -23,7 +30,7 @@ An 8-page PDF with 60 practical checks covering secrets, RLS, auth, performance,
 - [Preview real PDF pages](https://cekuu35.github.io/nextjs-supabase-checklist-preview/?utm_source=github_profile&utm_medium=referral&utm_campaign=launch_checklist&utm_content=profile_readme)
 - [Review and buy on Gumroad — $12](https://cengokurtoglu.gumroad.com/l/xjnmxt?utm_source=github_profile&utm_medium=referral&utm_campaign=launch_checklist&utm_content=profile_readme)
 
-These products provide tools and guidance, not ranking, security, compliance, sales, or revenue guarantees.
+These products provide tools and guidance, not import-success, ranking, security, compliance, sales, or revenue guarantees.
 
 ## Selected product work
 
