@@ -6,14 +6,7 @@ Based in Türkiye
 
 ## Digital products
 
-Three products are currently promoted here. Each has a live public explanation or preview and a working Gumroad purchase path.
-
-### CSV Update Guard — $9 one-time
-
-An offline browser tool for reviewing risky bulk CSV changes before import. It compares current and proposed files by a chosen key, flags blank overwrites and structural risks, and generates a reviewed patch CSV plus a local HTML evidence report.
-
-- [See the workflow and limitations](https://cekuu35.github.io/csv-update-guard/?utm_source=github_profile&utm_medium=referral&utm_campaign=csv_update_guard_launch&utm_content=profile_readme)
-- [Review and buy on Gumroad — $9](https://cengokurtoglu.gumroad.com/l/csv-update-guard?utm_source=github_profile&utm_medium=referral&utm_campaign=csv_update_guard_launch&utm_content=profile_readme)
+Two products are currently promoted here. Each has a live public explanation or preview and a working Gumroad purchase path.
 
 ### AI-Ready Website Audit Kit — $49 one-time
 
