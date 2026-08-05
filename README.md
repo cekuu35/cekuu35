@@ -13,6 +13,7 @@ scope limitations for each example.
 
 - [Review the software engineering task-author portfolio](https://cenkkurtoglu.com/software-engineering-task-author?utm_source=github_profile&utm_medium=referral&utm_campaign=engineering_work&utm_content=profile_readme)
 - [Run the Supabase RLS isolation fixture](https://github.com/cekuu35/supabase-rls-leak-demo)
+- [Get help debugging a Supabase database or RLS failure](https://cenkkurtoglu.com/supabase-database-debugging?utm_source=github_profile&utm_medium=referral&utm_campaign=supabase_debugging&utm_content=profile_readme)
 
 ## Services and digital products
 
