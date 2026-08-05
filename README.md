@@ -74,4 +74,4 @@ Next.js · React · TypeScript · JavaScript · Node.js · Firebase / Firestore 
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/cenk-kurtoglu) · [Product catalog](https://cekuu35.github.io/) · [Website](https://cenkkurtoglu.com) · [Email](mailto:cnkkurtoglu@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/cenk-kurtoglu) · [Product catalog](https://cekuu35.github.io/) · [Website](https://cenkkurtoglu.com)
