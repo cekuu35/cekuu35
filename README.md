@@ -4,9 +4,19 @@ Independent solo developer focused on React, Next.js, Node.js, AI-backed workflo
 
 Based in Türkiye
 
-## Digital products
+## Services and digital products
 
-Two products are currently promoted here. Each has a live public explanation or preview and a working Gumroad purchase path.
+Three offers are currently promoted here. Each has public evidence or a real preview and a working platform checkout path.
+
+### Supabase RLS Security Audit — from $299
+
+A focused review of cross-user and cross-tenant access paths for Next.js + Supabase applications. The fixed-price Upwork project covers policy coverage, anonymous/authenticated boundaries, exposed objects, risky RPCs, privileged-key usage, and relevant storage policies.
+
+- [Review the audit scope and evidence](https://cenkkurtoglu.com/supabase-rls-security-audit?utm_source=github_profile&utm_medium=referral&utm_campaign=rls_audit&utm_content=profile_readme)
+- [Inspect the public five-test isolation fixture](https://github.com/cekuu35/supabase-rls-leak-demo)
+- [Order through the approved Upwork project — from $299](https://www.upwork.com/services/product/2083862107074689176)
+
+The public fixture is synthetic and demonstrates one database-level RLS failure mode; it is not evidence that any named product is vulnerable. Audit access and payment remain scoped through Upwork.
 
 ### AI-Ready Website Audit Kit — $49 one-time
 
