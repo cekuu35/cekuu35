@@ -4,6 +4,16 @@ Independent solo developer focused on React, Next.js, Node.js, AI-backed workflo
 
 Based in Türkiye
 
+## Engineering task design and debugging
+
+I am available for TypeScript/Next.js debugging, Supabase RLS review and
+software-engineering task-author work. My public evidence portfolio separates
+the invariant, failure signature, solution boundary, acceptance checks and
+scope limitations for each example.
+
+- [Review the software engineering task-author portfolio](https://cenkkurtoglu.com/software-engineering-task-author?utm_source=github_profile&utm_medium=referral&utm_campaign=engineering_work&utm_content=profile_readme)
+- [Run the Supabase RLS isolation fixture](https://github.com/cekuu35/supabase-rls-leak-demo)
+
 ## Services and digital products
 
 Three offers are currently promoted here. Each has public evidence or a real preview and a working platform checkout path.
