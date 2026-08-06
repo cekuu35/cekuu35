@@ -12,12 +12,26 @@ the invariant, failure signature, solution boundary, acceptance checks and
 scope limitations for each example.
 
 - [Review the software engineering task-author portfolio](https://cenkkurtoglu.com/software-engineering-task-author?utm_source=github_profile&utm_medium=referral&utm_campaign=engineering_work&utm_content=profile_readme)
+- [Review the $249 Next.js + Supabase production bug-fix sprint](https://cenkkurtoglu.com/nextjs-supabase-bug-fix?utm_source=github_profile&utm_medium=referral&utm_campaign=production_bug_fix&utm_content=profile_readme)
 - [Run the Supabase RLS isolation fixture](https://github.com/cekuu35/supabase-rls-leak-demo)
 - [Get help debugging a Supabase database or RLS failure](https://cenkkurtoglu.com/supabase-database-debugging?utm_source=github_profile&utm_medium=referral&utm_campaign=supabase_debugging&utm_content=profile_readme)
 
 ## Services and digital products
 
-Three offers are currently promoted here. Each has public evidence or a real preview and a working platform checkout path.
+Four offers are currently promoted here. Each has public evidence or a real preview and a working platform checkout path.
+
+### Next.js + Supabase Production Bug Fix — $249
+
+A focused 48-hour Upwork sprint for one reproducible production bug. The scope
+covers diagnosis, the smallest reliable correction that fits the agreed
+boundary, the nearest regression-path check, handover notes, and one revision.
+It is not a redesign, feature build, broad refactor, or open-ended security test.
+
+- [Review the exact scope, exclusions, and safe evidence requirements](https://cenkkurtoglu.com/nextjs-supabase-bug-fix?utm_source=github_profile&utm_medium=referral&utm_campaign=production_bug_fix&utm_content=services)
+- [Order through the approved Upwork project — $249](https://www.upwork.com/services/product/2084560143935042221)
+
+Contracting, requirements, messages, and payment remain on Upwork. Do not send
+production passwords, service-role keys, or real customer data in chat.
 
 ### Supabase RLS Security Audit — from $299
 
@@ -37,12 +51,12 @@ An evidence-led 100-point operational-readiness workflow with a dependency-free 
 - [Review a generated sample report](https://cekuu35.github.io/evidence-led-website-audit/sample-report.html?utm_source=github_profile&utm_medium=referral&utm_campaign=ai_audit_kit_launch&utm_content=profile_readme)
 - [Review and buy on Gumroad — $49](https://cengokurtoglu.gumroad.com/l/ai-ready-website-audit-kit?utm_source=github_profile&utm_medium=referral&utm_campaign=ai_ready_audit_kit&utm_content=profile_readme)
 
-### Next.js + Supabase Launch Checklist — $12 one-time
+### Next.js + Supabase Launch Checklist — $19 one-time
 
 An 8-page PDF with 60 practical checks covering secrets, RLS, auth, performance, SEO, reliability, monitoring, backups, environment setup, and go-live.
 
 - [Preview real PDF pages](https://cekuu35.github.io/nextjs-supabase-checklist-preview/?utm_source=github_profile&utm_medium=referral&utm_campaign=launch_checklist&utm_content=profile_readme)
-- [Review and buy on Gumroad — $12](https://cengokurtoglu.gumroad.com/l/xjnmxt?utm_source=github_profile&utm_medium=referral&utm_campaign=launch_checklist&utm_content=profile_readme)
+- [Review and buy on Gumroad — $19](https://cengokurtoglu.gumroad.com/l/xjnmxt?utm_source=github_profile&utm_medium=referral&utm_campaign=launch_checklist&utm_content=profile_readme)
 
 These products provide tools and guidance, not import-success, ranking, security, compliance, sales, or revenue guarantees.
 
