@@ -4,44 +4,37 @@ Independent solo developer focused on React, Next.js, Node.js, AI-backed workflo
 
 Based in Türkiye
 
-## Engineering task design and debugging
+## Supabase RLS review and debugging
 
-I am available for TypeScript/Next.js debugging, Supabase RLS review and
-software-engineering task-author work. My public evidence portfolio separates
-the invariant, failure signature, solution boundary, acceptance checks and
-scope limitations for each example.
+I help Next.js and Supabase teams verify cross-user and cross-tenant data
+boundaries with evidence-first tests. The public fixture below separates the
+failure signature, policy boundary, regression check and scope limitations.
 
-- [Review the software engineering task-author portfolio](https://cenkkurtoglu.com/software-engineering-task-author?utm_source=github_profile&utm_medium=referral&utm_campaign=engineering_work&utm_content=profile_readme)
-- [Review the $249 Next.js + Supabase production bug-fix sprint](https://cenkkurtoglu.com/nextjs-supabase-bug-fix?utm_source=github_profile&utm_medium=referral&utm_campaign=production_bug_fix&utm_content=profile_readme)
 - [Run the Supabase RLS isolation fixture](https://github.com/cekuu35/supabase-rls-leak-demo)
-- [Get help debugging a Supabase database or RLS failure](https://cenkkurtoglu.com/supabase-database-debugging?utm_source=github_profile&utm_medium=referral&utm_campaign=supabase_debugging&utm_content=profile_readme)
+- [Read the negative-test matrix](https://github.com/cekuu35/supabase-rls-leak-demo/blob/fixed/RLS_TEST_MATRIX.md)
+- [Reserve a 24-hour review of three sensitive tables — $15.20 total, $7.60 today](https://cengokurtoglu.gumroad.com/l/supabase-rls-3-table-review/LAUNCH20?utm_source=github_profile&utm_medium=readme&utm_campaign=rls_review&utm_content=top_cta)
+
+Send only sanitized schema and policy SQL—never production secrets,
+service-role keys or customer data. The focused review returns risk-ranked
+findings, reproducible checks and practical policy-fix recommendations. It is
+not a penetration test, certification or security guarantee.
 
 ## Services and digital products
 
-Four offers are currently promoted here. Each has public evidence or a real preview and a working platform checkout path.
+Three offers are currently promoted here. Each has public evidence or a real
+preview and a working platform checkout path.
 
-### Next.js + Supabase Production Bug Fix — $249
+### Supabase RLS 3-Table Review — $15.20 launch price
 
-A focused 48-hour Upwork sprint for one reproducible production bug. The scope
-covers diagnosis, the smallest reliable correction that fits the agreed
-boundary, the nearest regression-path check, handover notes, and one revision.
-It is not a redesign, feature build, broad refactor, or open-ended security test.
+A 24-hour human review of three sensitive tables covering SELECT, INSERT,
+UPDATE and DELETE policy boundaries, anonymous/authenticated roles, USING and
+WITH CHECK gaps, and cross-user or cross-tenant failure paths.
 
-- [Review the exact scope, exclusions, and safe evidence requirements](https://cenkkurtoglu.com/nextjs-supabase-bug-fix?utm_source=github_profile&utm_medium=referral&utm_campaign=production_bug_fix&utm_content=services)
-- [Order through the approved Upwork project — $249](https://www.upwork.com/services/product/2084560143935042221)
-
-Contracting, requirements, messages, and payment remain on Upwork. Do not send
-production passwords, service-role keys, or real customer data in chat.
-
-### Supabase RLS Security Audit — from $299
-
-A focused review of cross-user and cross-tenant access paths for Next.js + Supabase applications. The fixed-price Upwork project covers policy coverage, anonymous/authenticated boundaries, exposed objects, risky RPCs, privileged-key usage, and relevant storage policies.
-
-- [Review the audit scope and evidence](https://cenkkurtoglu.com/supabase-rls-security-audit?utm_source=github_profile&utm_medium=referral&utm_campaign=rls_audit&utm_content=profile_readme)
 - [Inspect the public five-test isolation fixture](https://github.com/cekuu35/supabase-rls-leak-demo)
-- [Order through the approved Upwork project — from $299](https://www.upwork.com/services/product/2083862107074689176)
+- [Reserve one of five launch slots — $7.60 deposit today](https://cengokurtoglu.gumroad.com/l/supabase-rls-3-table-review/LAUNCH20?utm_source=github_profile&utm_medium=readme&utm_campaign=rls_review&utm_content=services)
 
-The public fixture is synthetic and demonstrates one database-level RLS failure mode; it is not evidence that any named product is vulnerable. Audit access and payment remain scoped through Upwork.
+The purchase covers findings and recommendations for one authorized project;
+implementation can be scoped separately after the evidence is clear.
 
 ### AI-Ready Website Audit Kit — $49 one-time
 
