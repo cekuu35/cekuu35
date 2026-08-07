@@ -6,9 +6,10 @@ policy silently cancelling a restrictive one, a membership join that is not
 isolated, or a service-role key reachable from a client path. The SQL is
 valid in all three cases, which is why they survive review and pass tests.
 
-If you arrived here from a Postgres or Supabase thread, the audit is the
-first section below and the reproducible fixture is public — the same test
-suite goes red on one branch and green on the other in about two seconds.
+If you arrived here from a Postgres or Supabase thread, start with the free
+fixture in the first section — the same test suite goes red on one branch and
+green on the other in about two seconds. The $29 kit below it is the same
+audit as SQL you run yourself, which is what most people want.
 
 I also build and maintain Next.js, React and Node.js products; those are
 further down, labeled by evidence type so you can tell public source from
@@ -22,9 +23,15 @@ I help Next.js and Supabase teams verify cross-user and cross-tenant data
 boundaries with evidence-first tests. The public fixture below separates the
 failure signature, policy boundary, regression check and scope limitations.
 
-- [Run the Supabase RLS isolation fixture](https://github.com/cekuu35/supabase-rls-leak-demo)
+Three ways in, cheapest first:
+
+- **Free** — [run the isolation fixture](https://github.com/cekuu35/supabase-rls-leak-demo): one test file, red on one branch and green on the other, about two seconds, no Docker and no Supabase account. Also worth running Supabase's own database linter before anything here, since it is free and catches the obvious cases.
+- **$29 — run the audit yourself.** [The RLS Audit Kit on Gumroad](https://cengokurtoglu.gumroad.com/l/supabase-rls-audit-kit?utm_source=github_profile&utm_medium=readme&utm_campaign=rls_kit&utm_content=top_cta): seven commented SQL audits you run against your own catalogs — coverage, policy conflicts, write-side `WITH CHECK` gaps, grants, bypass paths, Storage and Realtime — plus a role-simulation harness wrapped in `BEGIN … ROLLBACK`, a 60-check workflow, and report templates. Nothing leaves your database.
+- **From $99 — I run it.** [Order on Upwork](https://www.upwork.com/services/product/2083862107074689176?utm_source=github_profile&utm_medium=readme&utm_campaign=rls_audit&utm_content=top_cta), 2-day delivery, severity-ranked findings with reproducible proof.
+
+If the free checks come back clean, you are done and you do not need either of the paid ones.
+
 - [Read the negative-test matrix](https://github.com/cekuu35/supabase-rls-leak-demo/blob/fixed/RLS_TEST_MATRIX.md)
-- [Order the audit on Upwork — from $99, 2-day delivery](https://www.upwork.com/services/product/2083862107074689176?utm_source=github_profile&utm_medium=readme&utm_campaign=rls_audit&utm_content=top_cta)
 
 Recent public example of the work: in a Supabase security thread about
 whether the Developer role can be prevented from reading project secrets,
