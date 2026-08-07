@@ -1,6 +1,18 @@
 # Cenk Kurtoğlu
 
-Independent solo developer focused on React, Next.js, Node.js, AI-backed workflows, and practical digital products. Purchases directly support careful maintenance, clearer documentation, and the development of more useful tools. The projects below are labeled by evidence type so you can distinguish public source, live products, prototypes, architecture documentation, and private product code.
+I audit Supabase authorization boundaries. Most of my work is finding the
+cross-user and cross-tenant leaks that a linter cannot see: a permissive
+policy silently cancelling a restrictive one, a membership join that is not
+isolated, or a service-role key reachable from a client path. The SQL is
+valid in all three cases, which is why they survive review and pass tests.
+
+If you arrived here from a Postgres or Supabase thread, the audit is the
+first section below and the reproducible fixture is public — the same test
+suite goes red on one branch and green on the other in about two seconds.
+
+I also build and maintain Next.js, React and Node.js products; those are
+further down, labeled by evidence type so you can tell public source from
+live products, prototypes and private code.
 
 Based in Türkiye
 
