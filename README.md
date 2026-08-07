@@ -68,6 +68,20 @@ Contracting and payment stay on Upwork. The audit covers findings and
 recommendations for one authorized project; implementation can be scoped
 separately after the evidence is clear.
 
+### Supabase RLS Audit Kit — $29 one-time
+
+The same audit as a set of files you run yourself. Seven commented SQL
+audits against your own catalogs: RLS coverage, policy conflicts,
+write-side `WITH CHECK` gaps, grants, bypass paths, Storage, Realtime,
+and a role-simulation harness that wraps its probes in `BEGIN … ROLLBACK`.
+Plus a 60-check workflow and report and remediation templates.
+
+- [Run the free five-test fixture first](https://github.com/cekuu35/supabase-rls-leak-demo)
+- [Buy the kit on Gumroad — $29](https://cengokurtoglu.gumroad.com/l/supabase-rls-audit-kit?utm_source=github_profile&utm_medium=readme&utm_campaign=rls_kit&utm_content=services)
+
+For projects you own or are authorized to test. It is a configuration
+review workflow, not a penetration test or a security guarantee.
+
 ### AI-Ready Website Audit Kit — $49 one-time
 
 An evidence-led 100-point operational-readiness workflow with a dependency-free Node.js scorer, evidence ledger, 19-page playbook, regression tests, and editable client-report templates.
