@@ -26,6 +26,15 @@ failure signature, policy boundary, regression check and scope limitations.
 - [Read the negative-test matrix](https://github.com/cekuu35/supabase-rls-leak-demo/blob/fixed/RLS_TEST_MATRIX.md)
 - [Order the audit on Upwork — from $99, 2-day delivery](https://www.upwork.com/services/product/2083862107074689176?utm_source=github_profile&utm_medium=readme&utm_campaign=rls_audit&utm_content=top_cta)
 
+Recent public example of the work: in a Supabase security thread about
+whether the Developer role can be prevented from reading project secrets,
+I argued the boundary cannot hold — deploy permission is transitively
+read-all-secrets permission, so redacting logs filters one channel while
+the attacker picks another. Supabase's security review reached the same
+conclusion, and the thread is now producing a documentation change rather
+than a redaction feature.
+[Read the thread](https://github.com/supabase/supabase/discussions/48795#discussioncomment-17930908)
+
 Start with the free checks. Supabase ships a database linter that catches RLS
 switched off, and RLS switched on with no policy behind it. What a linter
 cannot check is whether a policy that *exists* is correct — a permissive
