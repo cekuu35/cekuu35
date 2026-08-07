@@ -12,29 +12,40 @@ failure signature, policy boundary, regression check and scope limitations.
 
 - [Run the Supabase RLS isolation fixture](https://github.com/cekuu35/supabase-rls-leak-demo)
 - [Read the negative-test matrix](https://github.com/cekuu35/supabase-rls-leak-demo/blob/fixed/RLS_TEST_MATRIX.md)
-- [Reserve a 24-hour review of three sensitive tables — $15.20 total, $7.60 today](https://cengokurtoglu.gumroad.com/l/supabase-rls-3-table-review/LAUNCH20?utm_source=github_profile&utm_medium=readme&utm_campaign=rls_review&utm_content=top_cta)
+- [Order the audit on Upwork — from $299, 2-day delivery](https://www.upwork.com/services/product/2083862107074689176?utm_source=github_profile&utm_medium=readme&utm_campaign=rls_audit&utm_content=top_cta)
+
+Start with the free checks. Supabase ships a database linter that catches RLS
+switched off, and RLS switched on with no policy behind it. What a linter
+cannot check is whether a policy that *exists* is correct — a permissive
+policy silently cancelling a restrictive one, a membership join that is not
+isolated, or a service-role key reachable from a client path. That is what the
+audit covers.
 
 Send only sanitized schema and policy SQL—never production secrets,
-service-role keys or customer data. The focused review returns risk-ranked
-findings, reproducible checks and practical policy-fix recommendations. It is
-not a penetration test, certification or security guarantee.
+service-role keys or customer data. The review returns risk-ranked findings,
+reproducible checks and practical policy-fix recommendations. It is not a
+penetration test, certification or security guarantee.
 
 ## Services and digital products
 
 Three offers are currently promoted here. Each has public evidence or a real
 preview and a working platform checkout path.
 
-### Supabase RLS 3-Table Review — $15.20 launch price
+### Supabase RLS Security Audit — from $299
 
-A 24-hour human review of three sensitive tables covering SELECT, INSERT,
-UPDATE and DELETE policy boundaries, anonymous/authenticated roles, USING and
-WITH CHECK gaps, and cross-user or cross-tenant failure paths.
+A fixed-price review of your Supabase authorization boundary: every table and
+policy enumerated, covering SELECT, INSERT, UPDATE and DELETE policy
+boundaries, anonymous and authenticated roles, USING and WITH CHECK gaps, and
+cross-user or cross-tenant failure paths. You get severity-ranked findings with
+reproducible proof and a remediation plan with the SQL to apply.
 
 - [Inspect the public five-test isolation fixture](https://github.com/cekuu35/supabase-rls-leak-demo)
-- [Reserve one of five launch slots — $7.60 deposit today](https://cengokurtoglu.gumroad.com/l/supabase-rls-3-table-review/LAUNCH20?utm_source=github_profile&utm_medium=readme&utm_campaign=rls_review&utm_content=services)
+- [Read the scope on the service page](https://cenkkurtoglu.com/supabase-rls-security-audit?utm_source=github_profile&utm_medium=readme&utm_campaign=rls_audit&utm_content=services)
+- [Order on Upwork — from $299, 2-day delivery](https://www.upwork.com/services/product/2083862107074689176?utm_source=github_profile&utm_medium=readme&utm_campaign=rls_audit&utm_content=services)
 
-The purchase covers findings and recommendations for one authorized project;
-implementation can be scoped separately after the evidence is clear.
+Contracting and payment stay on Upwork. The audit covers findings and
+recommendations for one authorized project; implementation can be scoped
+separately after the evidence is clear.
 
 ### AI-Ready Website Audit Kit — $49 one-time
 
