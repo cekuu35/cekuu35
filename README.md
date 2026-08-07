@@ -12,7 +12,7 @@ failure signature, policy boundary, regression check and scope limitations.
 
 - [Run the Supabase RLS isolation fixture](https://github.com/cekuu35/supabase-rls-leak-demo)
 - [Read the negative-test matrix](https://github.com/cekuu35/supabase-rls-leak-demo/blob/fixed/RLS_TEST_MATRIX.md)
-- [Order the audit on Upwork — from $299, 2-day delivery](https://www.upwork.com/services/product/2083862107074689176?utm_source=github_profile&utm_medium=readme&utm_campaign=rls_audit&utm_content=top_cta)
+- [Order the audit on Upwork — from $99, 2-day delivery](https://www.upwork.com/services/product/2083862107074689176?utm_source=github_profile&utm_medium=readme&utm_campaign=rls_audit&utm_content=top_cta)
 
 Start with the free checks. Supabase ships a database linter that catches RLS
 switched off, and RLS switched on with no policy behind it. What a linter
@@ -31,7 +31,7 @@ penetration test, certification or security guarantee.
 Three offers are currently promoted here. Each has public evidence or a real
 preview and a working platform checkout path.
 
-### Supabase RLS Security Audit — from $299
+### Supabase RLS Security Audit — from $99
 
 A fixed-price review of your Supabase authorization boundary: every table and
 policy enumerated, covering SELECT, INSERT, UPDATE and DELETE policy
@@ -41,7 +41,7 @@ reproducible proof and a remediation plan with the SQL to apply.
 
 - [Inspect the public five-test isolation fixture](https://github.com/cekuu35/supabase-rls-leak-demo)
 - [Read the scope on the service page](https://cenkkurtoglu.com/supabase-rls-security-audit?utm_source=github_profile&utm_medium=readme&utm_campaign=rls_audit&utm_content=services)
-- [Order on Upwork — from $299, 2-day delivery](https://www.upwork.com/services/product/2083862107074689176?utm_source=github_profile&utm_medium=readme&utm_campaign=rls_audit&utm_content=services)
+- [Order on Upwork — from $99, 2-day delivery](https://www.upwork.com/services/product/2083862107074689176?utm_source=github_profile&utm_medium=readme&utm_campaign=rls_audit&utm_content=services)
 
 Contracting and payment stay on Upwork. The audit covers findings and
 recommendations for one authorized project; implementation can be scoped
