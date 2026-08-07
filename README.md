@@ -31,6 +31,12 @@ Three ways in, cheapest first:
 
 If the free checks come back clean, you are done and you do not need either of the paid ones.
 
+Arrived here from a Postgres or Supabase thread and would rather describe the
+problem first? Email **cnkkurtoglu@gmail.com**. Two or three sentences is
+enough, and I will tell you which of the three above applies — including when
+the answer is none of them. Send sanitized schema and policy SQL only, never
+production secrets, service-role keys or customer data.
+
 - [Read the negative-test matrix](https://github.com/cekuu35/supabase-rls-leak-demo/blob/fixed/RLS_TEST_MATRIX.md)
 
 Recent public example of the work: in a Supabase security thread about
@@ -134,5 +140,9 @@ This is a pre-revenue product foundation. Unrestricted public generation, comple
 Next.js · React · TypeScript · JavaScript · Node.js · Firebase / Firestore · Apify / Crawlee · Vercel
 
 ## Contact
+
+**cnkkurtoglu@gmail.com** — the fastest way to reach me. No platform account
+needed, and a question is not an order: if the honest answer is that you do not
+need an audit, that is the answer you will get.
 
 [LinkedIn](https://www.linkedin.com/in/cenk-kurtoglu) · [Product catalog](https://cekuu35.github.io/) · [Website](https://cenkkurtoglu.com)
