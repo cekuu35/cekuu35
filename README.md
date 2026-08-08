@@ -24,6 +24,13 @@ policy exposing every signed-in user's email — and credited the report in a
 [public commit](https://github.com/ismailsunni/onepieceofdata/commit/bd994c7b29caaf537c123c616f4f750227bbaac0),
 verified against production.
 
+> "Cenk identified a genuine and significant Supabase RLS issue in CrewForm and
+> disclosed it privately and responsibly. His report was clear, technically
+> accurate, and included practical steps to verify the issue and resolve it.
+> This allowed us to confirm the problem and get a fix in place quickly. He was
+> professional, constructive, and easy to work with throughout the process."
+> — **CrewForm**
+
 ## Supabase RLS review and debugging
 
 I help Next.js and Supabase teams verify cross-user and cross-tenant data
