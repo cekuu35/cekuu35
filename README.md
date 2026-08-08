@@ -17,6 +17,13 @@ live products, prototypes and private code.
 
 Based in Türkiye
 
+**Recently confirmed in production:** a project maintainer fixed two
+vulnerabilities I reported — an anon-reachable `SECURITY DEFINER` function that
+let any anon-key holder read any table, bypassing RLS, and a `USING (true)`
+policy exposing every signed-in user's email — and credited the report in a
+[public commit](https://github.com/ismailsunni/onepieceofdata/commit/bd994c7b29caaf537c123c616f4f750227bbaac0),
+verified against production.
+
 ## Supabase RLS review and debugging
 
 I help Next.js and Supabase teams verify cross-user and cross-tenant data
