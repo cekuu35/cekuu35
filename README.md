@@ -43,8 +43,8 @@ Recent public example of the work: in a Supabase security thread about
 whether the Developer role can be prevented from reading project secrets,
 I argued the boundary cannot hold — deploy permission is transitively
 read-all-secrets permission, so redacting logs filters one channel while
-the attacker picks another. Supabase's security review reached the same
-conclusion, and the thread is now producing a documentation change rather
+the attacker picks another. The reporter withdrew the proposal after that
+exchange, and the thread is now producing a documentation change rather
 than a redaction feature.
 [Read the thread](https://github.com/supabase/supabase/discussions/48795#discussioncomment-17930908)
 
