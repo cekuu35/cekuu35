@@ -131,7 +131,7 @@ These products provide tools and guidance, not import-success, ranking, security
 | Project | Evidence | What can be evaluated |
 |---|---|---|
 | **Abonem** | [Live App Store listing](https://apps.apple.com/tr/app/abonem-subscription-tracker/id6776748341) · [Public support repository](https://github.com/cekuu35/abonem-store) | A live iOS and iPadOS finance app for subscription and recurring-bill tracking, with optional Premium in-app purchases. |
-| **Renderivo** | [Public product surface](https://www.renderivo.com/) · [Sanitized engineering case study](https://github.com/cekuu35/cekuu35/blob/main/RENDERIVO_CASE_STUDY.md) | The public site exposes clearly labeled interactive GLB samples. The case study documents reliability and credit-integrity decisions. The full source is available as a commercial AI-SaaS starter — see the Renderivo engineering snapshot below. |
+| **Renderivo** | [Live product — free signup](https://www.renderivo.com/?utm_source=github_profile&utm_medium=readme&utm_campaign=renderivo_relaunch) · [Sanitized engineering case study](https://github.com/cekuu35/cekuu35/blob/main/RENDERIVO_CASE_STUDY.md) | A live text-to-3D SaaS, open for signups: type a prompt, get a GLB with an in-browser preview; a free account includes one Rapid generation. The case study documents reliability and credit-integrity decisions. The full source is also licensed as a commercial AI-SaaS starter — see the snapshot below. |
 | **llms.txt Generator** | [Public source](https://github.com/cekuu35/llms-txt-generator) · [Live Apify Actor](https://apify.com/nacred_corner/llms-txt-generator) | A JavaScript Actor that discovers pages through sitemaps or same-domain links, extracts main content, and writes `llms.txt`, optional `llms-full.txt`, and per-page metadata. |
 | **Wholesale ARV** | [Live no-login prototype](https://wholesale-arv.vercel.app/app) | A demo-mode real-estate analysis flow for conservative ARV, repair, and MAO work. The deployment visibly labels its fallback when live data keys are unavailable. Source is private. |
 | **React Story Editor** | [Live interaction proof](https://react-story-editor-proof.vercel.app/) | A self-initiated single-layer editor with drag/keyboard positioning, text size/weight/preset-color controls, safe-area guidance, and local 1080 × 1920 PNG export. It is not presented as commissioned client work. |
@@ -143,7 +143,7 @@ The [sanitized case study](https://github.com/cekuu35/cekuu35/blob/main/RENDERIV
 
 **The full source is available as a commercial AI-SaaS starter** — Next.js (App Router) + Paddle checkout with signed webhooks, a metered credit wallet, a referral system, and an HMAC-signed fal.ai generation pipeline, with Firebase Admin auth and daily cron reconciliation. It ships with `.env.example` and setup docs and contains no secrets. Email **cnkkurtoglu@gmail.com** for a commercial license.
 
-This is a pre-revenue product foundation: unrestricted public generation and production-scale operation are not claimed. What you buy is the engineered codebase, not a running business.
+Renderivo itself is [live with open signup](https://www.renderivo.com/?utm_source=github_profile&utm_medium=readme&utm_campaign=renderivo_relaunch&utm_content=snapshot) — a free account includes one Rapid text-to-3D generation. What the commercial license buys is the engineered codebase, not the running business; production-scale operation is not claimed.
 
 ## Public source and demos
 
