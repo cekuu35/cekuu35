@@ -137,6 +137,8 @@ An 8-page PDF with 60 practical checks covering secrets, RLS, auth, performance,
 
 These products provide tools and guidance, not import-success, ranking, security, compliance, sales, or revenue guarantees.
 
+**Creators, consultants and agencies:** if your audience ships Supabase or Next.js apps, you can earn a **50% commission** promoting any of these — 30-day tracking, nothing owed unless it converts. [Join the affiliate program](https://cengokurtoglu.gumroad.com/affiliates).
+
 ## Selected product work
 
 | Project | Evidence | What can be evaluated |
