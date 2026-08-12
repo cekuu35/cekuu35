@@ -31,6 +31,16 @@ verified against production.
 > professional, constructive, and easy to work with throughout the process."
 > — **CrewForm**
 
+> "I built my AI assistant Victorio with Claude and was very happy with it — not
+> having ANY idea about the security aspects of this build and what it could mean
+> for my data. Then I got an email from Cenk. I put it into Claude and guess what
+> Claude said: 'Cenk is absolutely right and 100% of this email is correct.'
+> Claude apologized for not thinking through security correctly. I then bought
+> Cenk's checklist, and with it Claude was able to plug all my security holes. I
+> am very thankful to Cenk — he is amazing, and I highly recommend all founders
+> who are not technical to talk to him."
+> — **Stan Altshuller, Founder & CEO, [Acadia.im](https://www.acadia.im)**
+
 ## Supabase RLS review and debugging
 
 I help Next.js and Supabase teams verify cross-user and cross-tenant data
