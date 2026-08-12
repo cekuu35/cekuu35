@@ -131,6 +131,7 @@ An evidence-led 100-point operational-readiness workflow with a dependency-free 
 
 An 8-page PDF with 60 practical checks covering secrets, RLS, auth, performance, SEO, reliability, monitoring, backups, environment setup, and go-live.
 
+- [Start free — the 10-check pre-launch pass](https://cengokurtoglu.gumroad.com/l/nextjs-supabase-10-checks-free?utm_source=github_profile&utm_medium=referral&utm_campaign=lead_magnet&utm_content=profile_readme): a 2-page PDF, pay what you want — enter 0 to download. The fastest way to see the format before the full 60.
 - [Preview real PDF pages](https://cekuu35.github.io/nextjs-supabase-checklist-preview/?utm_source=github_profile&utm_medium=referral&utm_campaign=launch_checklist&utm_content=profile_readme)
 - [Review and buy on Gumroad — $19](https://cengokurtoglu.gumroad.com/l/xjnmxt?utm_source=github_profile&utm_medium=referral&utm_campaign=launch_checklist&utm_content=profile_readme)
 
