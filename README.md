@@ -24,6 +24,12 @@ policy exposing every signed-in user's email -- and credited the report in a
 [public commit](https://github.com/ismailsunni/onepieceofdata/commit/bd994c7b29caaf537c123c616f4f750227bbaac0),
 verified against production.
 
+**Most recent merge:** a review-driven hardening migration for
+[StudentSuite/StudyMap](https://github.com/StudentSuite/StudyMap/pull/184) --
+place-type CHECK constraint, lat/lng bounds shipped as NOT VALID + VALIDATE so
+the rollout cannot lock the table, plus explicit WITH CHECK on the UPDATE
+policies; merged after addressing two rounds of maintainer review.
+
 > 'Cenk identified a genuine and significant Supabase RLS issue in CrewForm and
 > disclosed it privately and responsibly. His report was clear, technically
 > accurate, and included practical steps to verify the issue and resolve it.
@@ -48,6 +54,7 @@ Run these against your own database to check for common security gaps.
 - [**RLS Production Checklist**](https://gist.github.com/cekuu35/e9bed1ff71f491842552fdb2d28cbe80) -- 7 SQL queries: tables with RLS on but no policy, USING(true) on anon, SECURITY DEFINER callable by anon, missing TO clauses
 - [**Service Role Detection**](https://gist.github.com/cekuu35/ce2f79a944235ad1c4894c792f97fbdb) -- find exposed service_role keys, SECURITY DEFINER functions, and direct grants
 - [**SECURITY DEFINER Audit**](https://gist.github.com/cekuu35/32a0b4c3489f8406a78712585fbc3591) -- list all SECURITY DEFINER functions, check anon EXECUTE privileges, find dynamic SQL injection vectors
+- [**Two-User RLS Test (no pgTAP)**](https://gist.github.com/cekuu35/35ccb80e1fc986fab088c4b804211fbe) -- prove tenant isolation on a live database with plain psql: act as user A and B via request.jwt.claims, probe every access path, self-verify the harness catches permissive policies
 
 Also worth running Supabase's own database linter, since it is free and catches the obvious cases.
 
