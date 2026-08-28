@@ -68,7 +68,7 @@ Three ways in, cheapest first:
 
 - **Free** -- [run the isolation fixture](https://github.com/cekuu35/supabase-rls-leak-demo): one test file, red on one branch and green on the other, about two seconds, no Docker and no Supabase account.
 - ** -- run the audit yourself.** [The RLS Audit Kit on Gumroad](https://cengokurtoglu.gumroad.com/l/supabase-rls-audit-kit?utm_source=github_profile&utm_medium=readme&utm_campaign=rls_kit&utm_content=top_cta): seven commented SQL audits you run against your own catalogs -- coverage, policy conflicts, write-side WITH CHECK gaps, grants, bypass paths, Storage and Realtime -- plus a role-simulation harness wrapped in BEGIN/ROLLBACK, a 60-check workflow, and report templates. Nothing leaves your database.
-- **From  -- I run it.** [Order on Upwork](https://www.upwork.com/services/product/2083862107074689176?utm_source=github_profile&utm_medium=readme&utm_campaign=rls_audit&utm_content=top_cta), 2-day delivery, severity-ranked findings with reproducible proof.
+- **From $99 -- I run it.** [Order on Upwork](https://www.upwork.com/services/product/2083862107074689176?utm_source=github_profile&utm_medium=readme&utm_campaign=rls_audit&utm_content=top_cta), 2-day delivery, severity-ranked findings with reproducible proof.
 
 If the free checks come back clean, you are done and you do not need either of the paid ones.
 
@@ -119,7 +119,7 @@ See the Gist links above for SQL queries that detect each of these.
 Three offers are currently promoted here. Each has public evidence or a real
 preview and a working platform checkout path.
 
-### Supabase RLS Security Audit -- from 
+### Supabase RLS Security Audit -- from $99
 
 A fixed-price review of your Supabase authorization boundary: every table and
 policy enumerated, covering SELECT, INSERT, UPDATE and DELETE policy
@@ -129,13 +129,13 @@ reproducible proof and a remediation plan with the SQL to apply.
 
 - [Inspect the public five-test isolation fixture](https://github.com/cekuu35/supabase-rls-leak-demo)
 - [Read the scope on the service page](https://cenkkurtoglu.com/supabase-rls-security-audit?utm_source=github_profile&utm_medium=readme&utm_campaign=rls_audit&utm_content=services)
-- [Order on Upwork -- from , 2-day delivery](https://www.upwork.com/services/product/2083862107074689176?utm_source=github_profile&utm_medium=readme&utm_campaign=rls_audit&utm_content=services)
+- [Order on Upwork -- from $99, 2-day delivery](https://www.upwork.com/services/product/2083862107074689176?utm_source=github_profile&utm_medium=readme&utm_campaign=rls_audit&utm_content=services)
 
 Contracting and payment stay on Upwork. The audit covers findings and
 recommendations for one authorized project; implementation can be scoped
 separately after the evidence is clear.
 
-### Supabase RLS Audit Kit --  one-time
+### Supabase RLS Audit Kit -- $29 one-time
 
 The same audit as a set of files you run yourself. Seven commented SQL
 audits against your own catalogs: RLS coverage, policy conflicts,
@@ -144,26 +144,26 @@ and a role-simulation harness that wraps its probes in BEGIN/ROLLBACK.
 Plus a 60-check workflow and report and remediation templates.
 
 - [Run the free five-test fixture first](https://github.com/cekuu35/supabase-rls-leak-demo)
-- [Buy the kit on Gumroad -- ](https://cengokurtoglu.gumroad.com/l/supabase-rls-audit-kit?utm_source=github_profile&utm_medium=readme&utm_campaign=rls_kit&utm_content=services)
+- [Buy the kit on Gumroad -- $29](https://cengokurtoglu.gumroad.com/l/supabase-rls-audit-kit?utm_source=github_profile&utm_medium=readme&utm_campaign=rls_kit&utm_content=services)
 
 For projects you own or are authorized to test. It is a configuration
 review workflow, not a penetration test or a security guarantee.
 
-### AI-Ready Website Audit Kit --  one-time
+### AI-Ready Website Audit Kit -- $49 one-time
 
 An evidence-led 100-point operational-readiness workflow with a dependency-free Node.js scorer, evidence ledger, 19-page playbook, regression tests, and editable client-report templates.
 
 - [Try the free 100-point scorecard](https://cekuu35.github.io/evidence-led-website-audit/scorecard.html?utm_source=github_profile&utm_medium=referral&utm_campaign=ai_audit_kit_launch&utm_content=profile_readme)
 - [Review a generated sample report](https://cekuu35.github.io/evidence-led-website-audit/sample-report.html?utm_source=github_profile&utm_medium=referral&utm_campaign=ai_audit_kit_launch&utm_content=profile_readme)
-- [Review and buy on Gumroad -- ](https://cengokurtoglu.gumroad.com/l/ai-ready-website-audit-kit?utm_source=github_profile&utm_medium=referral&utm_campaign=ai_ready_audit_kit&utm_content=profile_readme)
+- [Review and buy on Gumroad -- $49](https://cengokurtoglu.gumroad.com/l/ai-ready-website-audit-kit?utm_source=github_profile&utm_medium=referral&utm_campaign=ai_ready_audit_kit&utm_content=profile_readme)
 
-### Next.js + Supabase Launch Checklist --  one-time
+### Next.js + Supabase Launch Checklist -- $19 one-time
 
 An 8-page PDF with 60 practical checks covering secrets, RLS, auth, performance, SEO, reliability, monitoring, backups, environment setup, and go-live.
 
 - [Start free -- the 10-check pre-launch pass](https://cengokurtoglu.gumroad.com/l/nextjs-supabase-10-checks-free?utm_source=github_profile&utm_medium=referral&utm_campaign=lead_magnet&utm_content=profile_readme): a 2-page PDF, pay what you want -- enter 0 to download. The fastest way to see the format before the full 60.
 - [Preview real PDF pages](https://cekuu35.github.io/nextjs-supabase-checklist-preview/?utm_source=github_profile&utm_medium=referral&utm_campaign=launch_checklist&utm_content=profile_readme)
-- [Review and buy on Gumroad -- ](https://cengokurtoglu.gumroad.com/l/xjnmxt?utm_source=github_profile&utm_medium=referral&utm_campaign=launch_checklist&utm_content=profile_readme)
+- [Review and buy on Gumroad -- $19](https://cengokurtoglu.gumroad.com/l/xjnmxt?utm_source=github_profile&utm_medium=referral&utm_campaign=launch_checklist&utm_content=profile_readme)
 
 These products provide tools and guidance, not import-success, ranking, security, compliance, sales, or revenue guarantees.
 
