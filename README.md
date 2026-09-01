@@ -135,6 +135,28 @@ Contracting and payment stay on Upwork. The audit covers findings and
 recommendations for one authorized project; implementation can be scoped
 separately after the evidence is clear.
 
+Already live with real users and still shipping? The one-time audit is a
+snapshot; a single new table, policy or migration can silently reopen a hole
+afterwards. That is the gap the monthly membership covers.
+
+### RLS Guard -- $50/month, ongoing
+
+A human re-audits your Supabase project every month instead of once: a fresh
+read of every table's RLS status, the role each policy really targets
+(including the anonymous role), SECURITY DEFINER functions, service_role
+exposure, and the Storage / Realtime gaps that table RLS misses. You get a
+short written report with the exact fix SQL, priority help by email during the
+month, and a re-check after each deploy so a new migration does not silently
+reopen a hole.
+
+- [Read the seven-surface scope on Gumroad -- $50/month, cancel anytime](https://cengokurtoglu.gumroad.com/l/yvdwv?utm_source=github_profile&utm_medium=readme&utm_campaign=rls_guard&utm_content=services)
+- [Start free with the release checklist first](https://gist.github.com/cekuu35/e9bed1ff71f491842552fdb2d28cbe80)
+
+Best if your app is live and holds real user data and you do not want to
+become a security expert to keep shipping safely. If you are pre-launch with
+no users, or happy to run the audits yourself, the one-time Audit Kit below is
+the cheaper, correct tool.
+
 ### Supabase RLS Audit Kit -- $29 one-time
 
 The same audit as a set of files you run yourself. Seven commented SQL
