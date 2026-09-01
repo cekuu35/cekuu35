@@ -116,8 +116,17 @@ See the Gist links above for SQL queries that detect each of these.
 
 ## Services and digital products
 
-Three offers are currently promoted here. Each has public evidence or a real
-preview and a working platform checkout path.
+Each offer has public evidence or a real preview and a working platform
+checkout path. The $19 checklist is the fastest, cheapest way to see the
+format.
+
+### Next.js + Supabase Launch Checklist -- $19 one-time
+
+An 8-page PDF with 60 practical checks covering secrets, RLS, auth, performance, SEO, reliability, monitoring, backups, environment setup, and go-live.
+
+- [Start free -- the 10-check pre-launch pass](https://cengokurtoglu.gumroad.com/l/nextjs-supabase-10-checks-free?utm_source=github_profile&utm_medium=referral&utm_campaign=lead_magnet&utm_content=profile_readme): a 2-page PDF, pay what you want -- enter 0 to download. The fastest way to see the format before the full 60.
+- [Preview real PDF pages](https://cekuu35.github.io/nextjs-supabase-checklist-preview/?utm_source=github_profile&utm_medium=referral&utm_campaign=launch_checklist&utm_content=profile_readme)
+- [Review and buy on Gumroad -- $19, 5-star rated](https://cengokurtoglu.gumroad.com/l/xjnmxt?utm_source=github_profile&utm_medium=referral&utm_campaign=launch_checklist&utm_content=profile_readme)
 
 ### Supabase RLS Security Audit -- from $99
 
@@ -185,14 +194,6 @@ An evidence-led 100-point operational-readiness workflow with a dependency-free 
 - [Try the free 100-point scorecard](https://cekuu35.github.io/evidence-led-website-audit/scorecard.html?utm_source=github_profile&utm_medium=referral&utm_campaign=ai_audit_kit_launch&utm_content=profile_readme)
 - [Review a generated sample report](https://cekuu35.github.io/evidence-led-website-audit/sample-report.html?utm_source=github_profile&utm_medium=referral&utm_campaign=ai_audit_kit_launch&utm_content=profile_readme)
 - [Review and buy on Gumroad -- $49](https://cengokurtoglu.gumroad.com/l/ai-ready-website-audit-kit?utm_source=github_profile&utm_medium=referral&utm_campaign=ai_ready_audit_kit&utm_content=profile_readme)
-
-### Next.js + Supabase Launch Checklist -- $19 one-time
-
-An 8-page PDF with 60 practical checks covering secrets, RLS, auth, performance, SEO, reliability, monitoring, backups, environment setup, and go-live.
-
-- [Start free -- the 10-check pre-launch pass](https://cengokurtoglu.gumroad.com/l/nextjs-supabase-10-checks-free?utm_source=github_profile&utm_medium=referral&utm_campaign=lead_magnet&utm_content=profile_readme): a 2-page PDF, pay what you want -- enter 0 to download. The fastest way to see the format before the full 60.
-- [Preview real PDF pages](https://cekuu35.github.io/nextjs-supabase-checklist-preview/?utm_source=github_profile&utm_medium=referral&utm_campaign=launch_checklist&utm_content=profile_readme)
-- [Review and buy on Gumroad -- $19](https://cengokurtoglu.gumroad.com/l/xjnmxt?utm_source=github_profile&utm_medium=referral&utm_campaign=launch_checklist&utm_content=profile_readme)
 
 These products provide tools and guidance, not import-success, ranking, security, compliance, sales, or revenue guarantees.
 
