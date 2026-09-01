@@ -171,6 +171,13 @@ Plus a 60-check workflow and report and remediation templates.
 For projects you own or are authorized to test. It is a configuration
 review workflow, not a penetration test or a security guarantee.
 
+Already blocked on a specific table, policy, or payment integration and
+need it resolved rather than another checklist? Done-for-you fixes:
+
+- [RLS 3-Table Review -- $39, 24-hour turnaround](https://cengokurtoglu.gumroad.com/l/supabase-rls-3-table-review?utm_source=github_profile&utm_medium=readme&utm_campaign=rls_3table&utm_content=services)
+- [Payment & Compliance Integration Fix -- $79, 48-hour delivery (iyzico / PayTR / Stripe / Supabase RLS)](https://cengokurtoglu.gumroad.com/l/lpoxj?utm_source=github_profile&utm_medium=readme&utm_campaign=payfix&utm_content=services)
+- [Next.js + Supabase 48-Hour Launch Review -- $79](https://cengokurtoglu.gumroad.com/l/nextjs-supabase-launch-review?utm_source=github_profile&utm_medium=readme&utm_campaign=launch_review&utm_content=services)
+
 ### AI-Ready Website Audit Kit -- $49 one-time
 
 An evidence-led 100-point operational-readiness workflow with a dependency-free Node.js scorer, evidence ledger, 19-page playbook, regression tests, and editable client-report templates.
