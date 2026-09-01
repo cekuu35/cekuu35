@@ -213,7 +213,9 @@ These products provide tools and guidance, not import-success, ranking, security
 
 The [sanitized case study](https://github.com/cekuu35/cekuu35/blob/main/RENDERIVO_CASE_STUDY.md) explains its recoverable asynchronous-job and transactional-credit design.
 
-**The full source is available as a commercial AI-SaaS starter** -- Next.js (App Router) + Paddle checkout with signed webhooks, a metered credit wallet, a referral system, and an HMAC-signed fal.ai generation pipeline, with Firebase Admin auth and daily cron reconciliation. It ships with .env.example and setup docs and contains no secrets. Email **cnkkurtoglu@gmail.com** for a commercial license.
+**The full source is available as a commercial AI-SaaS starter** -- Next.js App Router + a Merchant-of-Record checkout (Polar: works from ~46+ Stripe-unsupported countries) with signed webhooks, a metered credit wallet with transactional deductions, an HMAC-signed fal.ai generation pipeline, Firebase Admin auth, and daily cron reconciliation. It ships with .env.example and setup docs and contains no secrets. **Buy it on Gumroad -- $99, instant download**:
+
+- [AI SaaS Starter on Gumroad -- $99](https://cengokurtoglu.gumroad.com/l/epwlkh?utm_source=github_profile&utm_medium=readme&utm_campaign=ai_saas_starter&utm_content=snapshot) -- or email **cnkkurtoglu@gmail.com** for a commercial license without the platform fees.
 
 Renderivo itself is [live with open signup](https://www.renderivo.com/?utm_source=github_profile&utm_medium=readme&utm_campaign=renderivo_relaunch&utm_content=snapshot) -- a free account includes one Rapid text-to-3D generation. What the commercial license buys is the engineered codebase, not the running business; production-scale operation is not claimed.
 
