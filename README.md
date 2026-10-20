@@ -50,6 +50,7 @@ Zero-dependency, runs-locally, free-forever config and rules auditors. Same red/
 - [github-actions-audit](https://github.com/cekuu35/github-actions-audit) -- `npx github-actions-audit` -- pwn requests, script injection, unpinned actions in CI workflows
 - [firebase-rules-audit](https://github.com/cekuu35/firebase-rules-audit) -- `npx firebase-rules-audit` -- open access and missing auth checks in Firestore / Storage rules
 - [n8n-workflow-audit](https://github.com/cekuu35/n8n-workflow-audit) -- `npx n8n-workflow-audit` -- hardcoded credentials and open webhooks in exported n8n workflows
+- [stripe-webhook-audit](https://github.com/cekuu35/stripe-webhook-audit) -- `npx stripe-webhook-audit` -- Stripe webhook handlers that trust events without signature verification
 ## Free checks first -- Supabase RLS security SQL
 
 Run these against your own database. The same SQL goes red on one branch and
