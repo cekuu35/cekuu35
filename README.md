@@ -137,4 +137,10 @@ redaction feature. [Read the thread](https://github.com/supabase/supabase/discus
 order: if the honest answer is that you do not need an audit, that is the
 answer you will get.
 
+## Support
+
+All the security work above -- public repo scans, the free RLS check, vulnerability
+disclosures to maintainers -- is free, no strings. If it saved you some pain, you can
+[buy me a coffee](https://www.buymeacoffee.com/cenkKurtoglu) -- entirely optional.
+
 Stack: Next.js Â· React Â· TypeScript Â· Node.js Â· Firebase/Firestore Â· Apify/Crawlee Â· Vercel
