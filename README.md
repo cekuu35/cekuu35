@@ -40,6 +40,16 @@ policies; merged after two rounds of maintainer review.
 > technical to talk to him.'
 > -- **Stan Altshuller, Founder & CEO, [Acadia.im](https://www.acadia.im)**
 
+
+## Free security auditors â€” the audit family
+
+Zero-dependency, runs-locally, free-forever config and rules auditors. Same red/green philosophy as the fixture above:
+
+- [mcp-config-security](https://github.com/cekuu35/mcp-config-security) -- `npx mcp-config-security` -- scan MCP client configs (Claude, Cursor, Windsurf) for leaked tokens, service_role JWTs and unsafe flags
+- [supabase-service-role-scanner](https://github.com/cekuu35/supabase-service-role-scanner) -- `npx supabase-service-role-scanner` -- find service_role keys exposed to the browser via NEXT_PUBLIC_ or hardcoded in source
+- [github-actions-audit](https://github.com/cekuu35/github-actions-audit) -- `npx github-actions-audit` -- pwn requests, script injection, unpinned actions in CI workflows
+- [firebase-rules-audit](https://github.com/cekuu35/firebase-rules-audit) -- `npx firebase-rules-audit` -- open access and missing auth checks in Firestore / Storage rules
+- [n8n-workflow-audit](https://github.com/cekuu35/n8n-workflow-audit) -- `npx n8n-workflow-audit` -- hardcoded credentials and open webhooks in exported n8n workflows
 ## Free checks first -- Supabase RLS security SQL
 
 Run these against your own database. The same SQL goes red on one branch and
@@ -136,11 +146,5 @@ redaction feature. [Read the thread](https://github.com/supabase/supabase/discus
 **cnkkurtoglu@gmail.com** -- fastest way to reach me. A question is not an
 order: if the honest answer is that you do not need an audit, that is the
 answer you will get.
-
-## Support
-
-All the security work above -- public repo scans, the free RLS check, vulnerability
-disclosures to maintainers -- is free, no strings. If it saved you some pain, you can
-[buy me a coffee](https://www.buymeacoffee.com/cenkKurtoglu) -- entirely optional.
 
 Stack: Next.js Â· React Â· TypeScript Â· Node.js Â· Firebase/Firestore Â· Apify/Crawlee Â· Vercel
