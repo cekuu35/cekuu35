@@ -40,17 +40,15 @@ policies; merged after two rounds of maintainer review.
 > technical to talk to him.'
 > -- **Stan Altshuller, Founder & CEO, [Acadia.im](https://www.acadia.im)**
 
+## Latest writing -- Supabase security, the practical version
 
-## Free security auditors â€” the audit family
+- [Is my Supabase anon key exposed? What's actually safe (and what isn't)](https://dev.to/cekuu35/is-my-supabase-anon-key-exposed-whats-actually-safe-and-what-isnt-3ka6) -- the panic question, answered precisely
+- [RLS with auth.uid() not working? Causes and fixes](https://dev.to/cekuu35/supabase-rls-with-authuid-not-working-causes-and-fixes-20pj) -- the six usual suspects, in order
+- [Test Your RLS Policies Locally: A Free SQL Harness](https://dev.to/cekuu35/test-your-supabase-rls-policies-locally-a-free-sql-harness-2g1j) -- red on broken, green on fixed, no Docker
+- [You Committed .env to GitHub: What to Rotate](https://dev.to/cekuu35/you-committed-env-to-github-what-to-rotate-supabase-nextjs-2phc) -- and in what order
+- [NEXT_PUBLIC_ and Supabase: Which Env Variables Are Safe to Expose](https://dev.to/cekuu35/nextpublic-and-supabase-which-env-variables-are-safe-to-expose-43p4) -- the one mistake that ships your service_role key
+- [The Supabase Security Checklist to Run Before You Launch](https://dev.to/cekuu35/the-supabase-security-checklist-to-run-before-you-launch-4e18) -- 30 minutes before go-live
 
-Zero-dependency, runs-locally, free-forever config and rules auditors. Same red/green philosophy as the fixture above:
-
-- [mcp-config-security](https://github.com/cekuu35/mcp-config-security) -- `npx mcp-config-security` -- scan MCP client configs (Claude, Cursor, Windsurf) for leaked tokens, service_role JWTs and unsafe flags
-- [supabase-service-role-scanner](https://github.com/cekuu35/supabase-service-role-scanner) -- `npx supabase-service-role-scanner` -- find service_role keys exposed to the browser via NEXT_PUBLIC_ or hardcoded in source
-- [github-actions-audit](https://github.com/cekuu35/github-actions-audit) -- `npx github-actions-audit` -- pwn requests, script injection, unpinned actions in CI workflows
-- [firebase-rules-audit](https://github.com/cekuu35/firebase-rules-audit) -- `npx firebase-rules-audit` -- open access and missing auth checks in Firestore / Storage rules
-- [n8n-workflow-audit](https://github.com/cekuu35/n8n-workflow-audit) -- `npx n8n-workflow-audit` -- hardcoded credentials and open webhooks in exported n8n workflows
-- [stripe-webhook-audit](https://github.com/cekuu35/stripe-webhook-audit) -- `npx stripe-webhook-audit` -- Stripe webhook handlers that trust events without signature verification
 ## Free checks first -- Supabase RLS security SQL
 
 Run these against your own database. The same SQL goes red on one branch and
@@ -147,5 +145,11 @@ redaction feature. [Read the thread](https://github.com/supabase/supabase/discus
 **cnkkurtoglu@gmail.com** -- fastest way to reach me. A question is not an
 order: if the honest answer is that you do not need an audit, that is the
 answer you will get.
+
+## Support
+
+All the security work above -- public repo scans, the free RLS check, vulnerability
+disclosures to maintainers -- is free, no strings. If it saved you some pain, you can
+[buy me a coffee](https://www.buymeacoffee.com/cenkKurtoglu) -- entirely optional.
 
 Stack: Next.js Â· React Â· TypeScript Â· Node.js Â· Firebase/Firestore Â· Apify/Crawlee Â· Vercel
