@@ -140,6 +140,11 @@ redaction feature. [Read the thread](https://github.com/supabase/supabase/discus
 
 </details>
 
+## Templates & Kits
+
+- **[Supabase October 30 Migration Kit](https://cengokurtoglu.gumroad.com/l/supabase-oct30-migration-kit)** -- ready-to-use GRANT templates, the audit census query, the dry-run script and the verification queries for the October 30, 2026 grants change (changelog 45329).
+- **[RLS Audit Kit](https://cengokurtoglu.gumroad.com/l/supabase-rls-audit-kit-v2)** -- the per-identity access matrix, the SQL smoke tests and the review prompts behind the audits above, as a self-serve pass.
+- **[Get-Paid Pack](https://cengokurtoglu.gumroad.com/l/get-paid-pack)** -- the invoicing and late-payment chasing system I run for client work.
 ## Contact
 
 **cnkkurtoglu@gmail.com** -- fastest way to reach me. A question is not an
