@@ -42,12 +42,13 @@ policies; merged after two rounds of maintainer review.
 
 ## Latest writing -- Supabase security, the practical version
 
-- [Is my Supabase anon key exposed? What's actually safe (and what isn't)](https://dev.to/cekuu35/is-my-supabase-anon-key-exposed-whats-actually-safe-and-what-isnt-3ka6) -- the panic question, answered precisely
-- [RLS with auth.uid() not working? Causes and fixes](https://dev.to/cekuu35/supabase-rls-with-authuid-not-working-causes-and-fixes-20pj) -- the six usual suspects, in order
-- [Test Your RLS Policies Locally: A Free SQL Harness](https://dev.to/cekuu35/test-your-supabase-rls-policies-locally-a-free-sql-harness-2g1j) -- red on broken, green on fixed, no Docker
-- [You Committed .env to GitHub: What to Rotate](https://dev.to/cekuu35/you-committed-env-to-github-what-to-rotate-supabase-nextjs-2phc) -- and in what order
-- [NEXT_PUBLIC_ and Supabase: Which Env Variables Are Safe to Expose](https://dev.to/cekuu35/nextpublic-and-supabase-which-env-variables-are-safe-to-expose-43p4) -- the one mistake that ships your service_role key
-- [The Supabase Security Checklist to Run Before You Launch](https://dev.to/cekuu35/the-supabase-security-checklist-to-run-before-you-launch-4e18) -- 30 minutes before go-live
+- [7 ways your Supabase app still leaks data with RLS enabled](https://cenkkurtoglu.com/blog/7-supabase-rls-leak-surfaces) -- the leak surfaces that pass an "is RLS on?" glance, each with a read-only SQL check
+- [Why Supabase RLS returns nothing or 42501 (auth.uid() is null)](https://cenkkurtoglu.com/blog/supabase-rls-auth-uid-null-server) -- the server request running as anon, and how to diagnose it
+- [Supabase October 30: new tables throw 42501 until you GRANT](https://cenkkurtoglu.com/blog/supabase-oct30-table-grants-42501) -- the grants census, the per-table fix, and the ALTER DEFAULT PRIVILEGES gotcha
+- [Your UPDATE policy passes because it has no WITH CHECK](https://cenkkurtoglu.com/blog/supabase-rls-write-leak-with-check) -- USING checks where the row starts; WITH CHECK checks where it ends
+- [Supabase Storage upload fails with RLS (403)](https://cenkkurtoglu.com/blog/supabase-storage-rls-upload-403) -- works with service_role, 403s with the signed-in user: the policy and role that fix it
+- [How to test Supabase RLS policies](https://cenkkurtoglu.com/blog/how-to-test-supabase-rls-policies) -- a cross-user and cross-tenant test matrix with an executable fixture
+- [Supabase auth on Vercel: the double-login fix](https://cenkkurtoglu.com/blog/supabase-auth-vercel-double-login-fix) -- the SSR cookie gap in middleware.ts and the logout redirect loop it also causes
 
 ## Free checks first -- Supabase RLS security SQL
 
