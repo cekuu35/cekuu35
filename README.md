@@ -78,10 +78,11 @@ the answer is none of them. Send sanitized schema and policy SQL only, never
 production secrets, service-role keys or customer data.
 
 App is live with real users and still shipping? A one-time audit is a
-snapshot; a single new migration can silently reopen a hole. That is the gap
-[**RLS Guard ($50/month)**](https://cengokurtoglu.gumroad.com/l/yvdwv?utm_source=github_profile&utm_medium=readme&utm_campaign=rls_guard&utm_content=top_cta)
-covers: a fresh human re-audit every month, written report with fix SQL,
-priority email help, re-check after each deploy.
+snapshot; a single new migration can silently reopen a hole. That gap is
+covered by a **monthly re-audit**: a fresh human pass over your policies and
+grants, a written report with fix SQL, and a re-check after each deploy.
+Email **cnkkurtoglu@gmail.com** to arrange it -- tell me the migration cadence
+and I will tell you what it covers before you commit to anything.
 
 <details>
 <summary><strong>Other common Supabase security problems I find</strong></summary>
@@ -100,9 +101,9 @@ See the Gist links above for SQL that detects each of these.
 <summary><strong>More fixed-scope offers</strong></summary>
 
 - [Next.js + Supabase Launch Checklist -- $19](https://cengokurtoglu.gumroad.com/l/xjnmxt?utm_source=github_profile&utm_medium=readme&utm_campaign=launch_checklist&utm_content=more): 8-page PDF, 60 checks. [Start with the free 10-check pre-launch pass](https://cengokurtoglu.gumroad.com/l/nextjs-supabase-10-checks-free?utm_source=github_profile&utm_medium=readme&utm_campaign=lead_magnet&utm_content=more) or [preview real pages](https://cekuu35.github.io/nextjs-supabase-checklist-preview/).
-- [RLS 3-Table Review -- $39, 24-hour turnaround](https://cengokurtoglu.gumroad.com/l/supabase-rls-3-table-review?utm_source=github_profile&utm_medium=readme&utm_campaign=rls_3table&utm_content=more)
-- [Payment & Compliance Integration Fix -- $79, 48h (iyzico / PayTR / Stripe / Supabase RLS)](https://cengokurtoglu.gumroad.com/l/lpoxj?utm_source=github_profile&utm_medium=readme&utm_campaign=payfix&utm_content=more)
-- [Next.js + Supabase 48-Hour Launch Review -- $79](https://cengokurtoglu.gumroad.com/l/nextjs-supabase-launch-review?utm_source=github_profile&utm_medium=readme&utm_campaign=launch_review&utm_content=more)
+- [Multi-Tenant RLS Self-Audit Pack -- $39](https://cengokurtoglu.gumroad.com/l/mlzoou?utm_source=github_profile&utm_medium=readme&utm_campaign=rls_selfaudit&utm_content=more): the exact SQL checks behind every multi-tenant audit -- 7 isolation bug classes, each with a FIND query and ready-to-run verification.
+- [Supabase RLS Re-Scan -- $99, 48h](https://cengokurtoglu.gumroad.com/l/supabase-rls-rescan?utm_source=github_profile&utm_medium=readme&utm_campaign=rls_rescan&utm_content=more): for after you have rotated a leaked key -- re-checks exposure, audits RLS policy by policy, and returns a written before/after note.
+- [Supabase RLS Leak Alert -- free n8n workflow](https://cengokurtoglu.gumroad.com/l/n8n-supabase-rls-leak-alert?utm_source=github_profile&utm_medium=readme&utm_campaign=rls_leak_alert&utm_content=more): a read-only workflow that emails you when a Supabase service_role key appears in public GitHub code.
 - [AI-Ready Website Audit Kit -- $49](https://cengokurtoglu.gumroad.com/l/ai-ready-website-audit-kit?utm_source=github_profile&utm_medium=readme&utm_campaign=ai_audit_kit&utm_content=more): 100-point workflow, dependency-free Node.js scorer, [free scorecard](https://cekuu35.github.io/evidence-led-website-audit/scorecard.html), [sample report](https://cekuu35.github.io/evidence-led-website-audit/sample-report.html).
 
 These products provide tools and guidance, not import-success, ranking,
