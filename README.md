@@ -42,6 +42,7 @@ policies; merged after two rounds of maintainer review.
 
 ## Latest writing -- Supabase security, the practical version
 
+- [What your AI security reviewer structurally cannot see](https://cenkkurtoglu.com/blog/what-ai-security-review-cannot-see) -- CodeRabbit and Claude Code check whether a policy exists; they cannot check whether the policy set is closed. Four failure modes that survive automated review, with the one-line query that finds each.
 - [7 ways your Supabase app still leaks data with RLS enabled](https://cenkkurtoglu.com/blog/7-supabase-rls-leak-surfaces) -- the leak surfaces that pass an "is RLS on?" glance, each with a read-only SQL check
 - [Why Supabase RLS returns nothing or 42501 (auth.uid() is null)](https://cenkkurtoglu.com/blog/supabase-rls-auth-uid-null-server) -- the server request running as anon, and how to diagnose it
 - [Supabase October 30: new tables throw 42501 until you GRANT](https://cenkkurtoglu.com/blog/supabase-oct30-table-grants-42501) -- the grants census, the per-table fix, and the ALTER DEFAULT PRIVILEGES gotcha
